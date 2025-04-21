@@ -1,11 +1,13 @@
 {
   "home": {
     "hero": {
-      "title": "Academy - Develop your football potential",
-      "description": "Specialized football school with innovative training programs for young footballers of all levels.",
+      "title": "PLAY, IMPROVE, THRIVE!",
+      "description": "At BEFA, the child is at the heart of everything. They improve their technique, develop coordination, and grow in a friendly and supportive environment.",
       "button": "Discover our activities",
-      "more": "Learn more"
-    },
+      "more": "Learn more",
+      "partnership": "In partnership with KSC Grimbergen"
+    }
+    ,
     "partnership": "In partnership with",
     "approach": {
       "title": "Our approach",

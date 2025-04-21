@@ -1,10 +1,11 @@
 {
   "home": {
     "hero": {
-      "title": "Academy - Développez votre potentiel football",
-      "description": "École de football spécialisée proposant des programmes d'entraînement innovants pour jeunes footballeurs de tous niveaux.",
-      "button": "Voir nos activités",
-      "more": "En savoir plus"
+     "title": " : JOUER, PROGRESSER, S'ÉPANOUIR !",
+            "description": "Chez BEFA, l'enfant est au centre de tout. Il perfectionne sa technique, développe sa coordination et progresse dans un environnement de partage et de convivialité.",
+            "button": "Découvrir nos activités",
+            "more": "En savoir plus",
+            "partnership": "En partenariat avec KSC Grimbergen"
     },
     "partnership": "En partenariat avec",
     "approach": {

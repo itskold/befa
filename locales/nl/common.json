@@ -1,11 +1,13 @@
 {
   "home": {
     "hero": {
-      "title": "Academy - Ontwikkel je voetbalpotentieel",
-      "description": "Gespecialiseerde voetbalschool met innovatieve trainingsprogramma's voor jonge voetballers van alle niveaus.",
-      "button": "Bekijk onze activiteiten",
-      "more": "Meer informatie"
-    },
+      "title": "SPELEN, GROEIEN, BLOEIEN!",
+      "description": "Bij BEFA staat het kind centraal. Het verfijnt zijn techniek, ontwikkelt zijn coördinatie en groeit in een sfeer van delen en gezelligheid.",
+      "button": "Ontdek onze activiteiten",
+      "more": "Meer info",
+      "partnership": "In samenwerking met KSC Grimbergen"
+    }
+    ,
     "partnership": "In samenwerking met",
     "approach": {
       "title": "Onze aanpak",
