@@ -1,0 +1,545 @@
+{
+  "home": {
+    "hero": {
+      "title": "Academy - Develop your football potential",
+      "description": "Specialized football school with innovative training programs for young footballers of all levels.",
+      "button": "Discover our activities",
+      "more": "Learn more"
+    },
+    "partnership": "In partnership with",
+    "approach": {
+      "title": "Our approach",
+      "subtitle": "Complete and personalized training",
+      "description": "We offer an integrated approach combining technique, tactics, and mental preparation to develop complete players.",
+      "technique": {
+        "tite": "Individual technique",
+        "description": "Improvement of fundamental technical skills and position-specific exercises."
+      },
+      "tactics": {
+        "title": "Tactical awareness",
+        "description": "Development of game understanding and decision-making."
+      },
+      "mental": {
+        "title": "Mental preparation",
+        "description": "Strengthening confidence, concentration, and resilience under pressure."
+      }
+    },
+    
+    "testimonials": {
+      "title": "Testimonials",
+      "subtitle": "What our players say",
+      "description": "Discover the experiences of our players and parents who have participated in our programs."
+    },
+    "partners": {
+      "title": "Our partners",
+      "subtitle": "They trust us",
+      "description": "BEFA Academy works with quality partners to provide the best possible experience.",
+      "cta": "Want to become a partner and support our academy?",
+      "button": "Become a partner"
+    },
+    "cta": {
+      "title": "Ready to join BEFA Academy?",
+      "description": "Register for one of our activities and start your progress.",
+      "button": "Register now"
+    }
+  },
+  "individual": {
+    "title": "Individual training",
+    "description": "Personalized sessions to meet your specific needs"
+  },
+  "sponsoring": {
+    "title1": "Become a",
+    "title2": "Partner",
+    "subtitle": "Support the development of young talents and associate your image with positive values",
+    "button": "Discover our packages",
+    "story": {
+      "title": "Our",
+      "title2": "History",
+      "subtitle": "The Grimbergen Football Academy",
+      "description": "The first football academy in Grimbergen was created to help local talents develop and progress further. We offer quality coaching with trained and experienced coaches, as well as modern infrastructure, to enable each player to maximize their potential.",
+      "description2": "Our mission: to form tomorrow's champions, while remaining close to our local community.",
+      "values": {
+        "title": "Mission and Values",
+        "subtitle": "Listening and Care",
+        "description": "Each player is supported, heard, and encouraged to excel, regardless of their goals",
+        "subtitle2": "Professionalism and Quality",
+        "description2": "Our coaches, trained and passionate, provide high-level guidance",
+        "subtitle3": "Respect",
+        "description3": "Integrity, fair play, and solidarity are at the center of every training session"
+      }
+    },
+    "formules": {
+      "title1": "Our Partnership",
+      "title2": "Packages",
+      "description": "We offer different packages adapted to all budgets and objectives. Choose the one that best suits your needs.",
+      "supporter": {
+        "title": "Supporter",
+        "description": "Basic partner",
+        "year": "year",
+        "items": {
+          "item1": "Advertising on the academy website",
+          "item2": "Mention on the academy's social media (thank you post with your logo)",
+          "button": "Choose this package"
+        }
+      },
+      "champion": {
+        "title": "Champion",
+        "description": "Intermediate partner",
+        "year": "year",
+        "items": {
+          "item1": "Advertising on the academy website",
+          "item2": "Sponsor logo on shorts or sleeve*",
+          "item3": "Social media publication (1 post/year with your logo)",
+          "button": "Choose this package"
+        }
+      },
+      "elite": {
+        "badge": "Popular",
+        "title": "Elite",
+        "description": "Privileged partner",
+        "year": "year",
+        "items": {
+          "item1": "Advertising on the academy website",
+          "item2": "Sponsor logo on shorts or sleeve*",
+          "item3": "Presence on our communication materials (posters, flyers,...)",
+          "item4": "Regular advertising on social media (2 posts per year)",
+          "button": "Choose this package"
+        }
+      },
+      "legend": {
+        "title": "Legend",
+        "description": "Main partner",
+        "year": "year",
+        "items": {
+          "item1": "Advertising on the academy website",
+          "item2": "Premium presence on our site",
+          "item3": "Logo on the jersey",
+          "item4": "Front, back or staff equipment*",
+          "items5": "Presence on all our communications",
+          "item6": "Email, flyers, brochures",
+          "item7": "Social media advertising",
+          "item8": "4 posts per year",
+          "item9": "Visibility during events",
+          "item10": "Banners and announcements",
+          "item11": "VIP access",
+          "item12": "To events and matches"
+        }
+      },
+      "info": "*The placement of your logo on our equipment depends on availability.",
+      "contact": "Contact us for any other request such as sponsoring events, balls, or specific equipment.",
+      "button": "Request a customized offer"
+    },
+    "partners": {
+      "title1": "Our",
+      "title2": "Partners",
+      "description": "Discover the companies that trust us and support our academy.",
+      "button": "See all our partners"
+    },
+    "testimonials": {
+      "title1": "What our",
+      "title2": "partners say",
+      "description": "Discover the testimonials of our current sponsors and their experience with BEFA Academy.",
+      "testimonials": {
+        "moupress": {
+          "status": "Marketing Director",
+          "description": "Our partnership with BEFA Academy has allowed us to increase our local visibility and associate ourselves with positive values. An excellent return on investment."
+        },
+        "karbill": {
+          "status": "CSR Manager",
+          "description": "We are proud to support the development of young talents. Our partnership with BEFA Academy fits perfectly into our CSR policy."
+        }
+      }
+    },
+    "form": {
+      "title1": "Interested in a",
+      "title2": "partnership",
+      "description": "Complete the form opposite and our team will contact you as soon as possible to discuss partnership possibilities tailored to your needs and objectives.",
+      "direct": "Direct contact",
+      "website": "Website",
+      "download": "Download our sponsorship portfolio",
+      "downloadText": "Our comprehensive portfolio contains all the information on our partnership packages, our audience, and the detailed benefits.",
+      "downloadButton": "Download the portfolio (PDF)",
+      "formSchema": {
+        "companyName": "Company name must contain at least 2 characters",
+        "contactName": "Contact name must contain at least 2 characters",
+        "email": "Please enter a valid email address",
+        "phone": "Phone number must contain at least 9 digits",
+        "position": "Position must contain at least 2 characters",
+        "package": "Please select a package",
+        "message10": "Message must contain at least 10 characters",
+        "message500": "Message must not exceed 500 characters",
+        "consent": "You must agree to the privacy policy"
+      },
+      "formuleLabels": {
+        "supporter": "Supporter Package - €650/year",
+        "champion": "Champion Package - €1,650/year",
+        "elite": "Elite Package - €2,750/year",
+        "legend": "Legend Package - €3,450/year",
+        "custom": "Custom package"
+      },
+      "form": {
+        "title": "Partnership request",
+        "success": {
+          "title": "Request sent successfully!",
+          "description": "Thank you for your interest in a partnership with BEFA Academy. Our team will contact you as soon as possible to discuss partnership possibilities tailored to your needs and objectives.",
+          "button": "Send another request"
+        },
+        "companyName": "Company name",
+        "companyNamePlaceholder": "Your company",
+        "contactName": "Contact name",
+        "contactNamePlaceholder": "First and last name",
+        "email": "Email",
+        "emailPlaceholder": "Your email",
+        "phone": "Phone",
+        "phonePlaceholder": "Your phone number",
+        "position": "Position",
+        "positionPlaceholder": "Your position",
+        "package": "Desired package",
+        "packagePlaceholder": "Choose a package",
+        "message": "Message",
+        "messagePlaceholder": "Specify your expectations, questions, or specific needs...",
+        "messageMaxLength": "500 characters",
+        "budget": "Budget",
+        "budgetPlaceholder": "Enter your approximate budget",
+        "consent": "I agree that my data will be processed in accordance with the privacy policy",
+        "formuleLabels": {
+          "supporter": "Supporter - €650/year",
+          "champion": "Champion - €1,650/year",
+          "elite": "Elite - €2,750/year",
+          "legend": "Legend - €3,450/year",
+          "custom": "Custom package"
+        },
+        "button": "Send my request",
+        "submit": "Send request",
+        "loading": "Sending..."
+      }
+    }
+  },
+  "header": {
+    "home": "Home",
+    "activities": "Activities",
+    "sponsoring": "Sponsoring",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "register": "Register"
+  },
+  "footer": {
+    "description": "BEFA Academy offers innovative training programs to develop the full potential of young footballers.",
+    "quickLinks": "Quick links",
+    "titleLang": "titleEn",
+    "partnership": "In partnership with KSC Grimbergen",
+    "copyright": "All rights reserved",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use",
+    "cookies": "Cookies"
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact",
+      "description": "A question, request for information, or registration? We're here to help."
+    },
+    "info": {
+      "title": "Our contact details",
+      "description": "Don't hesitate to contact us directly or use the form for your request."
+    },
+    "phone": {
+      "title": "Phone",
+      "hours": "Monday to Friday, 9am-5pm"
+    },
+    "email": {
+      "title": "Email",
+      "response": "We respond within 24-48 hours"
+    },
+    "address": {
+      "title": "Address"
+    },
+    "map": {
+      "title": "Find us"
+    },
+    "form": {
+      "title": "Contact form",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "phone": "Phone (optional)",
+      "subject": "Subject",
+      "message": "Message",
+      "consent": "I agree that my data will be processed in accordance with the",
+      "privacyPolicy": "privacy policy",
+      "submit": "Send message",
+      "submitting": "Sending...",
+      "placeholders": {
+        "firstName": "Your first name",
+        "lastName": "Your last name",
+        "email": "your.email@example.com",
+        "phone": "+32 473 99 91 70",
+        "subject": "Select a subject",
+        "message": "Your message..."
+      },
+      "subjectOptions": {
+        "information": "Information request",
+        "registration": "Registration",
+        "partnership": "Partnership",
+        "other": "Other"
+      },
+      "validation": {
+        "firstName": "First name must contain at least 2 characters",
+        "lastName": "Last name must contain at least 2 characters",
+        "email": "Please enter a valid email address",
+        "phone": "Phone number must contain at least 9 digits",
+        "subject": "Please select a subject",
+        "messageMin": "Message must contain at least 10 characters",
+        "messageMax": "Message must not exceed 500 characters",
+        "consent": "You must agree to the privacy policy"
+      },
+      "success": {
+        "title": "Message sent!",
+        "description": "We will respond as soon as possible."
+      },
+      "error": {
+        "title": "Error",
+        "description": "An error occurred while sending the message.",
+        "retry": "Try again"
+      },
+      "successMessage": {
+        "title": "Message successfully sent!",
+        "description": "Thank you for your message. We will get back to you as soon as possible.",
+        "button": "Send another message"
+      }
+    }
+  },
+  "reservationIndividual": {
+  "title1": "Individual",
+  "title2": "Sessions",
+  "description": "Progress quickly with personalized training tailored to your specific needs",
+  "button": "Discover our packages",
+  "badge": "Customized",
+  "title3": "Tailor-made training",
+  "title4": "Why choose an",
+  "title5": "individual session",
+  "description2": "Individual sessions offer a personalized approach that allows for faster progress. Our qualified coaches adapt each exercise to your specific needs to maximize your technical and tactical development.",
+  "attention": "Personal attention",
+  "attentionDescription": "100% of the coach's focus is on your progress",
+  "progression": "Accelerated progress",
+  "progressionDescription": "Improve your skills up to 3x faster than in group training",
+  "objectifs": "Targeted goals",
+  "objectifsDescription": "Work specifically on the areas you want to improve",
+  "flexibility": "Flexible scheduling",
+  "flexibilityDescription": "Choose the day and time that work best for you",
+  "formules": {
+    "title": "Our session",
+    "title2": "packages",
+    "description": "We offer different packages tailored to all levels and goals. Choose the one that best suits your needs.",
+    "technique": {
+      "title": "Individual Technique",
+      "description": "Technical improvement",
+      "session": "session",
+      "items": {
+        "item1": "Technical skills training",
+        "item2": "Ball control and passing",
+        "item3": "Dribbling and feints",
+        "item4": "Shooting and finishing"
+      },
+      "button": "Book this session"
+    },
+    "tactique": {
+      "badge": "Popular",
+      "title": "Game Tactics",
+      "description": "Game vision and intelligence",
+      "session": "session",
+      "items": {
+        "item1": "Game reading",
+        "item2": "Positioning",
+        "item3": "Decision making",
+        "item4": "Personalized video analysis",
+        "item5": "Match situations"
+      },
+      "button": "Book this session"
+    },
+    "physique": {
+      "title": "Physical Preparation",
+      "description": "Condition and performance",
+      "session": "session",
+      "items": {
+        "item1": "Speed and acceleration",
+        "item2": "Specific endurance",
+        "item3": "Strength and power",
+        "item4": "Agility and coordination",
+        "item5": "Customized program"
+      },
+      "button": "Book this session"
+    },
+    "custom": {
+      "description": "Have specific needs? We can create a tailor-made session just for you.",
+      "button": "Request a custom session"
+    },
+    "duration": {
+      "title": "Choose your",
+      "title2": "duration",
+      "description": "Adjust the session length according to your goals and availability",
+      "60": "60 minutes",
+      "90": "90 minutes",
+      "120": "120 minutes",
+      "standard": "Standard price",
+      "sessionStandard": "Standard session",
+      "plus40": "+40%",
+      "sessionApprofondie": "In-depth session",
+      "plus80": "+80%",
+      "sessionIntensive": "Intensive session",
+      "button": "See all our packages"
+    }
+  },
+  "form": {
+    "title": "Book your",
+    "title2": "session",
+    "description": "Fill out the form on the side to book your individual session. Our team will contact you as soon as possible to confirm your booking.",
+    "availability": "Availability",
+    "availabilityDescription": "Monday to Friday: 4pm - 8pm",
+    "availabilityDescription2": "Saturday: 9am - 5pm",
+    "direct": "Direct contact",
+    "directDescription": "Individual session coordinator",
+    "important": "Important information",
+    "importantDescription": "Arrive 15 minutes before your session starts",
+    "importantDescription2": "Bring full gear (shoes, shin guards, etc.)",
+    "importantDescription3": "Free cancellation up to 24h before the session",
+    "download": "Download the session guide",
+    "sessionTypes": {
+      "technique": "Individual Technique",
+      "tactique": "Game Tactics",
+      "physique": "Physical Preparation",
+      "gardien": "Goalkeeper Training"
+    },
+    "durations": {
+      "60": "60 minutes",
+      "90": "90 minutes",
+      "120": "120 minutes"
+    },
+    "form": {
+      "title": "Booking Form",
+      "subtitle": "1. Choose your session",
+      "sessionType": "Session type",
+      "duration": "Session duration",
+      "subtitle2": "2. Your information",
+      "date": "Preferred date",
+      "datePlaceholder": "Select a date",
+      "time": "Preferred time",
+      "timePlaceholder": "Select a time",
+      "firstName": "First name",
+      "firstNamePlaceholder": "Your first name",
+      "lastName": "Last name",
+      "lastNamePlaceholder": "Your last name",
+      "email": "Email",
+      "emailPlaceholder": "Your email",
+      "phone": "Phone",
+      "phonePlaceholder": "Your phone number",
+      "age": "Age",
+      "agePlaceholder": "Your age",
+      "level": "Level",
+      "levelPlaceholder": "Select your level",
+      "levels": {
+        "debutant": "Beginner",
+        "intermediaire": "Intermediate",
+        "avance": "Advanced",
+        "professionnel": "Professional"
+      },
+      "objectives": "Specific goals",
+      "objectivesPlaceholder": "Describe your goals or specific needs for this session",
+      "total": "Estimated total",
+      "payment": "Payment will be made on site before the session",
+      "button": "Book my session",
+      "loading": "Sending...",
+      "success": {
+        "title": "Request successfully sent!",
+        "subtitle": "We have received your booking request for a",
+        "subtitle2": "session",
+        "description": "Our team will contact you shortly to confirm your booking.",
+        "button": "Book another session",
+        "cancel": "You can cancel or change your booking up to 24h before the session"
+      }
+    }
+  }
+  },
+  "activities": {
+      "title": "Our activities",
+      "subtitle": "Programs adapted to all levels",
+      "description": "Discover our various training formulas, camps, and personalized programs.",
+      "button": "All our activities",
+      "learnMore": "Learn more",
+      "hero": {
+        "title1": "Our",
+        "title2": "Activities",
+        "description": "Discover all the activities offered by BEFA Academy to develop your child's football skills."
+      },
+      "regular": "Regular Program",
+      "period": "Period",
+      "frequency": "Frequency",
+      "sessionsPerWeek": "sessions per week",
+      "duration": "Duration",
+      "minutesPerSession": "minutes per session",
+      "age": "Age",
+      "allAges": "All ages",
+      "viewDetails": "View activity details",
+      "individual": {
+        "button": "Book a session",
+        "badge": "Personalized",
+        "title": "Individual Training",
+        "title1": "Personalize",
+        "title2": "your development",
+        "description": "Our individual lessons offer personalized attention to work on specific aspects of the game. Ideal for correcting weaknesses or developing particular skills with immediate and personalized feedback.",
+        "scheduling": "Scheduling",
+        "appointmentBased": "By appointment",
+        "duration": "Duration",
+        "hourPerSession": "1 hour per session",
+        "format": "Format",
+        "formatDescription": "1-on-1 or small group (2-3)",
+        "analysis": "Analysis",
+        "analysisDescription": "Video and detailed feedback",
+        "bookSession": "Book a session"
+      },
+      "cta": {
+        "title": "Ready to join one of our activities?",
+        "description": "Contact us for more information or to register for one of our activities.",
+        "button": "Contact us"
+      },
+      "aboutActivity": "About this activity",
+"groupsSchedules": "Groups & Schedule",
+"sessionDates": "Session dates",
+"practicalInfo": "Practical information",
+"location": "Location",
+"sessionPackages": "Session packages",
+"perSession": "per session",
+"choosePackage": "Choose a package",
+"features": "Features",
+"registerActivity": "Register for this activity",
+"needInfo": "Need more information?",
+"contactUs": "Feel free to contact us if you have any questions about this activity.",
+"contactButton": "Contact us",
+"otherActivities": "Other activities you might be interested in",
+"noOtherActivities": "No other activities available at the moment.",
+"viewAll": "View all our activities",
+"popular": "Popular"
+
+
+    },
+
+    "gallery": {
+  "hero": {
+    "title1": "Our",
+    "title2": "Gallery",
+    "description": "Discover in pictures the activities and highlights of BEFA Academy"
+  },
+  "filters": {
+    "all": "All photos"
+  },
+  "loading": "Loading images...",
+  "cta": {
+    "title": "Join the BEFA Academy adventure",
+    "description": "Explore our activities and sign up today",
+    "activities": "See our activities",
+    "contact": "Contact us"
+  }
+}
+
+
+
+} 

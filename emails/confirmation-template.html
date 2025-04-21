@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark">
+
+  <title>Confirmation d'inscription - BEFA Academy</title>
+  <style>
+    :root {
+      color-scheme: only light;
+      supported-color-schemes: light;
+    }
+    /* Styles de base */
+    @media (prefers-color-scheme: dark) {
+      body, .container {
+        color-scheme: light;
+        background-color: #232323 !important;
+        color: #f5f5f5 !important;
+      }
+      
+      .logo-dark {
+        display: inline !important;
+      }
+      
+      .logo-light {
+        display: none !important;
+      }
+    }
+
+    @media (prefers-color-scheme: light) {
+      .logo-dark {
+        display: none !important;
+      }
+      
+      .logo-light {
+        display: inline !important;
+      }
+    }
+
+    /* Par défaut (pour les clients qui ne supportent pas prefers-color-scheme) */
+    .logo-dark {
+      display: none;
+    }
+
+    .logo-light {
+      display: inline;
+    }
+    body {
+      font-family: 'Arial', sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 50px;
+    }
+    .container {
+      color: #f5f5f5;
+      background-color: #232323;
+      max-width: 400px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #232323;
+    }
+    .header {
+      text-align: center;
+      padding: 20px 0;
+      border-bottom: 2px solid #f5f301;
+    }
+    .logo {
+      max-width: 150px;
+      height: auto;
+    }
+    .content {
+      padding: 20px 0;
+    }
+    h1, h2, h3 {
+      color: #ffffff;
+    }
+    .highlight {
+      color: #f5f301;
+      font-weight: bold;
+    }
+    .section {
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 1px solid #333;
+    }
+    .section:last-child {
+      border-bottom: none;
+    }
+    .dates-list {
+      padding-left: 20px;
+    }
+    .dates-list li {
+      margin-bottom: 5px;
+    }
+    .equipment-list {
+      padding-left: 20px;
+    }
+    .equipment-list li {
+      margin-bottom: 5px;
+    }
+    .contact-info {
+      background-color: #292929;
+      padding: 15px;
+      border-radius: 5px;
+    }
+    .footer {
+      text-align: center;
+      padding: 20px 0;
+      font-size: 12px;
+      color: #999;
+      border-top: 2px solid #f5f301;
+    }
+    .social-links {
+      text-align: center;
+      padding: 10px 0;
+    }
+    .social-links a {
+      display: inline-block;
+      margin: 0 10px;
+    }
+    .social-icon {
+      width: 24px;
+      height: 24px;
+    }
+    .button {
+      display: inline-block;
+      background-color: #f5f301;
+      color: #232323 !important;
+      text-decoration: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      font-weight: bold;
+      margin: 15px 0;
+    }
+
+    @media only screen and (max-width: 600px) {
+      .container {
+        width: 100%;
+        padding: 15px;
+      }
+      body {
+        font-size: 16px;
+      }
+      h1 {
+        font-size: 24px;
+      }
+      h2 {
+        font-size: 20px;
+      }
+      h3 {
+        font-size: 18px;
+      }
+      .header {
+        padding: 15px 0;
+      }
+      .logo {
+        max-width: 120px;
+      }
+      .content {
+        padding: 15px 0;
+      }
+      .section {
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+      }
+      .contact-info {
+        padding: 12px;
+      }
+      .button {
+        display: block;
+        text-align: center;
+        padding: 12px 20px;
+        width: 100%;
+        box-sizing: border-box;
+      }
+      .dates-list, .equipment-list {
+        padding-left: 15px;
+      }
+    }
+    /* Assurer que les liens sont facilement cliquables sur mobile */
+    a {
+      color: #f5f301;
+      text-decoration: none;
+      padding: 2px 0;
+    }
+    a:hover, a:focus {
+      text-decoration: underline;
+    }
+    /* Assurer que les numéros de téléphone sont cliquables sur mobile */
+    .tel-link {
+      color: #f5f301;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <img src="https://firebasestorage.googleapis.com/v0/b/befacademy.firebasestorage.app/o/befa-logo.png?alt=media&token=2f0bd30e-f4e4-4613-9407-dcbefa9024b2" alt="BEFA Academy Logo" class="logo logo-light">
+      <img src="https://firebasestorage.googleapis.com/v0/b/befacademy.firebasestorage.app/o/befa_logo_black.png?alt=media&token=7419ae9d-56e9-486c-aeec-1f708bc4bcb9" alt="BEFA Academy Logo" class="logo logo-dark">
+    </div>
+    
+    <div class="content">
+      <h1>Confirmation d'inscription</h1> 
+      
+      <div class="section">
+        <p>Bonjour <span class="highlight">{{prenom}}</span>,</p>
+        <p>Nous avons le plaisir de confirmer ton inscription à l'académie BEFA pour <span class="highlight">{{nombre_seances}} séances</span>. Nous avons hâte de te retrouver sur le terrain !</p>
+      </div>
+      
+      <div class="section">
+        <h2>Où ?</h2>
+        <p>Les entraînements auront lieu à <span class="highlight">{{lieu}}</span>, dans les infrastructures de notre club partenaire, le KSC Grimbergen – Brusselsesteenweg 160, 1850 Grimbergen.</p>
+        <p>Un grand parking est à disposition.</p>
+      </div>
+      
+      <div class="section">
+        <h2>Quand ?</h2>
+        <p><span class="highlight">{{categorie}}</span> : de <span class="highlight">{{heure_debut}}</span> à <span class="highlight">{{heure_fin}}</span></p>
+        <p>Les entraînements commencent précisément à l'heure communiquée. Nous recommandons donc d'arriver 15 minutes avant pour t'échauffer et te préparer dans de bonnes conditions.</p>
+        
+        <h3>Les séances auront lieu les {{jour_semaine}} aux dates suivantes :</h3>
+        <ul class="dates-list">
+          {{#each dates_seances}}
+            <li>{{this}}</li>
+          {{/each}}
+        </ul>
+        
+      </div>
+      
+      <div class="section">
+        <h2>Équipement nécessaire</h2>
+        <ul class="equipment-list">
+          <li>Tenue de football adaptée à la météo</li>
+          <li>Chaussures de football</li>
+          <li>Protège-tibias (obligatoires)</li>
+          <li>Gourde remplie d'eau pour une bonne hydratation</li>
+        </ul>
+      </div>
+      
+      <div class="section">
+        <h3>Équipement supplémentaire :</h3>
+        <ul class="equipment-list">
+          {{#each equipement_supplementaire}}
+            <li>{{this}}</li>
+          {{/each}}
+        </ul>
+      </div>
+      
+      <div class="section contact-info">
+        <h2>Contact</h2>
+        <p>Pour toute question, tu peux nous joindre :</p>
+        <p>E-mail : <a href="mailto:info@befa-academy.be">info@befa-academy.be</a></p>
+        <p>Téléphone : <a href="tel:+32473999170" class="tel-link">+32 473 99 91 70</a></p>
+      </div>
+      
+      <div class="section" style="text-align: center;">
+        <p>Nous sommes impatients de te retrouver sur le terrain !</p>
+      </div>
+    </div>
+    
+    <div class="footer">
+      <p>Sportivement,<br>L'équipe BEFA</p>
+      <p>&copy; 2024 BEFA Academy. Tous droits réservés.</p>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,757 @@
+{
+  "home": {
+    "hero": {
+      "title": "Academy - Ontwikkel je voetbalpotentieel",
+      "description": "Gespecialiseerde voetbalschool met innovatieve trainingsprogramma's voor jonge voetballers van alle niveaus.",
+      "button": "Bekijk onze activiteiten",
+      "more": "Meer informatie"
+    },
+    "partnership": "In samenwerking met",
+    "approach": {
+      "title": "Onze aanpak",
+      "subtitle": "Een complete en gepersonaliseerde training",
+      "description": "Wij bieden een geïntegreerde aanpak die techniek, tactiek en mentale voorbereiding combineert om complete spelers te ontwikkelen.",
+      "technique": {
+        "tite": "Individuele techniek",
+        "description": "Verbetering van fundamentele technische vaardigheden en positiespecifieke oefeningen."
+      },
+      "tactics": {
+        "title": "Tactisch inzicht",
+        "description": "Ontwikkeling van spelbegrip en besluitvorming."
+      },
+      "mental": {
+        "title": "Mentale voorbereiding",
+        "description": "Versterking van zelfvertrouwen, concentratie en weerbaarheid onder druk."
+      }
+    },
+    "activities": {
+      "title": "Onze activiteiten",
+      "subtitle": "Programma's aangepast aan alle niveaus",
+      "description": "Ontdek onze verschillende trainingsformules, stages en gepersonaliseerde programma's.",
+      "button": "Al onze activiteiten",
+      "learnMore": "Meer informatie",
+      "hero": {
+        "title1": "Onze",
+        "title2": "Activiteiten",
+        "description": "Ontdek alle activiteiten die BEFA Academy aanbiedt om de voetbalvaardigheden van uw kind te ontwikkelen."
+      },
+      "regular": "Regulier Programma",
+      "period": "Periode",
+      "frequency": "Frequentie",
+      "sessionsPerWeek": "sessies per week",
+      "duration": "Duur",
+      "minutesPerSession": "minuten per sessie",
+      "age": "Leeftijd",
+      "allAges": "Alle leeftijden",
+      "viewDetails": "Bekijk details",
+      "individual": {
+        "button": "Boek een sessie",
+        "badge": "Gepersonaliseerd",
+        "title": "Individuele Lessen",
+        "title1": "Personaliseer",
+        "title2": "uw ontwikkeling",
+        "description": "Onze individuele lessen bieden persoonlijke aandacht om aan specifieke aspecten van het spel te werken. Ideaal voor het corrigeren van zwakke punten of het ontwikkelen van specifieke vaardigheden met directe en persoonlijke feedback.",
+        "scheduling": "Planning",
+        "appointmentBased": "Op afspraak",
+        "duration": "Duur",
+        "hourPerSession": "1 uur per sessie",
+        "format": "Formaat",
+        "formatDescription": "1-op-1 of kleine groep (2-3)",
+        "analysis": "Analyse",
+        "analysisDescription": "Video en gedetailleerde feedback",
+        "bookSession": "Sessie boeken"
+      },
+      "cta": {
+        "title": "Klaar om deel te nemen aan een van onze activiteiten?",
+        "description": "Neem contact met ons op voor meer informatie of om u in te schrijven voor een van onze activiteiten.",
+        "button": "Contact opnemen"
+      }
+    },
+    "testimonials": {
+      "title": "Getuigenissen",
+      "subtitle": "Wat onze spelers zeggen",
+      "description": "Ontdek de ervaringen van onze spelers en ouders die aan onze programma's hebben deelgenomen."
+    },
+    "partners": {
+      "title": "Onze partners",
+      "subtitle": "Zij vertrouwen op ons",
+      "description": "BEFA Academy werkt samen met kwaliteitspartners om de best mogelijke ervaring te bieden.",
+      "cta": "Wilt u partner worden en onze academie ondersteunen?",
+      "button": "Word partner"
+    },
+    "cta": {
+      "title": "Klaar om je bij BEFA Academy aan te sluiten?",
+      "description": "Schrijf je in voor een van onze activiteiten en begin met je vooruitgang.",
+      "button": "Nu inschrijven"
+    }
+  },
+  "individual": {
+    "title": "Individuele training",
+    "description": "Gepersonaliseerde sessies om aan uw specifieke behoeften te voldoen"
+  },
+  "sponsoring": {
+    "title1": "Word",
+    "title2": "Partner",
+    "subtitle": "Ondersteun de ontwikkeling van jonge talenten en koppel uw imago aan positieve waarden",
+    "button": "Ontdek onze formules",
+    "story": {
+      "title": "Ons",
+      "title2": "Verhaal",
+      "subtitle": "De Voetbalacademie van Grimbergen",
+      "description": "De eerste voetbalacademie van Grimbergen werd opgericht om lokale talenten te helpen zich verder te ontwikkelen en te groeien. Wij bieden hoogwaardige begeleiding met opgeleide en ervaren trainers, evenals moderne infrastructuur, om elke speler in staat te stellen zijn potentieel te maximaliseren.",
+      "description2": "Onze missie : de champions van morgen te vormen, terwijl we blijven dicht bij onze lokale gemeenschap.",
+      "values": {
+        "title": "Missie en Waarden",
+        "subtitle": "Luisteren en Zorgzaamheid",
+        "description": "Elke speler wordt ondersteund, gehoord en aangemoedigd om zichzelf te overtreffen, ongeacht zijn doelen",
+        "subtitle2": "Professionaliteit en Kwaliteit",
+        "description2": "Onze coaches, opgeleid en gepassioneerd, bieden hoogwaardige begeleiding",
+        "subtitle3": "Respect",
+        "description3": "Integriteit, fair play en solidariteit staan centraal bij elke training"
+      }
+    },
+    "formules": {
+      "title1": "Onze Partnerschap",
+      "title2": "Formules",
+      "description": "Wij bieden verschillende formules aan, aangepast aan alle budgetten en doelstellingen. Kies de formule die het beste bij uw behoeften past.",
+      "supporter": {
+        "title": "Supporter",
+        "description": "Basispartner",
+        "year": "jaar",
+        "items": {
+          "item1": "Reclame op de website van de academie",
+          "item2": "Vermelding op sociale media van de academie (bedankpost met uw logo)",
+          "button": "Deze formule kiezen"
+        }
+      },
+      "champion": {
+        "title": "Champion",
+        "description": "Tussenpartner",
+        "year": "jaar",
+        "items": {
+          "item1": "Reclame op de website van de academie",
+          "item2": "Sponsorlogo op shorts of mouw*",
+          "item3": "Publicatie op sociale media (1 post/jaar met uw logo)",
+          "button": "Deze formule kiezen"
+        }
+      },
+      "elite": {
+        "badge": "Populair",
+        "title": "Elite",
+        "description": "Bevoorrechte partner",
+        "year": "jaar",
+        "items": {
+          "item1": "Reclame op de website van de academie",
+          "item2": "Sponsorlogo op shorts of mouw*",
+          "item3": "Aanwezigheid op onze communicatiemiddelen (posters, flyers,...)",
+          "item4": "Regelmatige reclame op sociale media (2 posts per jaar)",
+          "button": "Deze formule kiezen"
+        }
+      },
+      "legend": {
+        "title": "Legende",
+        "description": "Hoofdpartner",
+        "year": "jaar",
+        "items": {
+          "item1": "Reclame op de website van de academie",
+          "item2": "Premium aanwezigheid op onze site",
+          "item3": "Logo op het shirt",
+          "item4": "Voor, achter of stafuitrusting*",
+          "items5": "Aanwezigheid in al onze communicatie",
+          "item6": "E-mail, flyers, brochures",
+          "item7": "Reclame op sociale media",
+          "item8": "4 posts per jaar",
+          "item9": "Zichtbaarheid tijdens evenementen",
+          "item10": "Banners en aankondigingen",
+          "item11": "VIP-toegang",
+          "item12": "Tot evenementen en wedstrijden"
+        }
+      },
+      "info": "*De plaatsing van uw logo op onze uitrusting is afhankelijk van beschikbaarheid.",
+      "contact": "Neem contact met ons op voor andere verzoeken zoals sponsoring van evenementen, ballen of specifieke uitrusting.",
+      "button": "Vraag een gepersonaliseerde offerte aan"
+    },
+    "partners": {
+      "title1": "Onze",
+      "title2": "Partners",
+      "description": "Ontdek de bedrijven die ons vertrouwen en onze academie ondersteunen.",
+      "button": "Bekijk al onze partners"
+    },
+    "testimonials": {
+      "title1": "Wat onze",
+      "title2": "partners zeggen",
+      "description": "Ontdek de getuigenissen van onze huidige sponsors en hun ervaring met BEFA Academy.",
+      "testimonials": {
+        "moupress": {
+          "status": "Marketing Directeur",
+          "description": "Onze samenwerking met BEFA Academy heeft ons in staat gesteld onze lokale zichtbaarheid te vergroten en ons te associëren met positieve waarden. Een uitstekend rendement op investering."
+        },
+        "karbill": {
+          "status": "MVO-verantwoordelijke",
+          "description": "We zijn er trots op de ontwikkeling van jonge talenten te ondersteunen. Ons partnerschap met BEFA Academy past perfect in ons MVO-beleid."
+        }
+      }
+    },
+    "form": {
+      "title1": "Geïnteresseerd in een",
+      "title2": "partnerschap",
+      "description": "Vul het formulier hiernaast in en ons team zal zo spoedig mogelijk contact met u opnemen om de partnerschapsmogelijkheden te bespreken die zijn aangepast aan uw behoeften en doelstellingen.",
+      "direct": "Direct contact",
+      "website": "Website",
+      "download": "Download ons sponsordossier",
+      "downloadText": "Ons volledige dossier bevat alle informatie over onze partnerschapsformules, ons publiek en de gedetailleerde voordelen.",
+      "downloadButton": "Download het dossier (PDF)",
+      "formSchema": {
+        "companyName": "De bedrijfsnaam moet minimaal 2 tekens bevatten",
+        "contactName": "De contactnaam moet minimaal 2 tekens bevatten",
+        "email": "Voer een geldig e-mailadres in",
+        "phone": "Het telefoonnummer moet minimaal 9 cijfers bevatten",
+        "position": "De functie moet minimaal 2 tekens bevatten",
+        "package": "Selecteer een formule",
+        "message10": "Het bericht moet minimaal 10 tekens bevatten",
+        "message500": "Het bericht mag niet meer dan 500 tekens bevatten",
+        "consent": "U moet akkoord gaan met het privacybeleid"
+      },
+      "formuleLabels": {
+        "supporter": "Supporter Formule - €650/jaar",
+        "champion": "Champion Formule - €1.650/jaar",
+        "elite": "Elite Formule - €2.750/jaar",
+        "legend": "Legende Formule - €3.450/jaar",
+        "custom": "Aangepaste formule"
+      },
+      "form": {
+        "title": "Partnerschapsaanvraag",
+        "success": {
+          "title": "Aanvraag succesvol verzonden!",
+          "description": "Bedankt voor uw interesse in een partnerschap met BEFA Academy. Ons team zal zo spoedig mogelijk contact met u opnemen om de partnerschapsmogelijkheden te bespreken die zijn aangepast aan uw behoeften en doelstellingen.",
+          "button": "Stuur nog een aanvraag"
+        },
+        "companyName": "Bedrijfsnaam",
+        "companyNamePlaceholder": "Uw bedrijf",
+        "contactName": "Contactnaam",
+        "contactNamePlaceholder": "Voornaam en achternaam",
+        "email": "E-mail",
+        "emailPlaceholder": "Uw e-mail",
+        "phone": "Telefoon",
+        "phonePlaceholder": "Uw telefoonnummer",
+        "position": "Functie",
+        "positionPlaceholder": "Uw functie",
+        "package": "Gewenste formule",
+        "packagePlaceholder": "Kies een formule",
+        "message": "Bericht",
+        "messagePlaceholder": "Specificeer uw verwachtingen, vragen of specifieke behoeften...",
+        "messageMaxLength": "500 tekens",
+       "budget": "Budget",
+        "budgetPlaceholder": "Geef uw geschatte budget aan",
+        "consent": "Ik ga ermee akkoord dat mijn gegevens worden verwerkt in overeenstemming met het privacybeleid",
+        "formuleLabels": {
+          "supporter": "Supporter - €650/jaar",
+          "champion": "Champion - €1.650/jaar",
+          "elite": "Elite - €2.750/jaar",
+          "legend": "Legende - €3.450/jaar",
+          "custom": "Aangepaste formule"
+        },
+        "button": "Verstuur mijn aanvraag",
+        "submit": "Verstuur aanvraag",
+        "loading": "Verzenden..."
+      }
+    }
+  },
+  "header": {
+    "home": "Home",
+    "activities": "Activiteiten",
+    "sponsoring": "Sponsoring",
+    "gallery": "Galerij",
+    "contact": "Contact",
+    "register": "Inschrijven"
+  },
+  "footer": {
+    "description": "BEFA Academy biedt innovatieve trainingsprogramma's aan om het volledige potentieel van jonge voetballers te ontwikkelen.",
+    "quickLinks": "Snelle links",
+    "titleLang": "titleNl",
+    "partnership": "In samenwerking met KSC Grimbergen",
+    "copyright": "Alle rechten voorbehouden",
+    "privacyPolicy": "Privacybeleid",
+    "termsOfUse": "Gebruiksvoorwaarden",
+    "cookies": "Cookies"
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact",
+      "description": "Een vraag, verzoek om informatie of inschrijving? Wij staan voor u klaar."
+    },
+    "info": {
+      "title": "Onze contactgegevens",
+      "description": "Aarzel niet om rechtstreeks contact met ons op te nemen of gebruik het formulier hiernaast voor uw verzoek."
+    },
+    "phone": {
+      "title": "Telefoon",
+      "hours": "Maandag tot vrijdag, 9u-17u"
+    },
+    "email": {
+      "title": "E-mail",
+      "response": "Wij reageren binnen 24-48 uur"
+    },
+    "address": {
+      "title": "Adres"
+    },
+    "map": {
+      "title": "Ons vinden"
+    },
+    "form": {
+      "title": "Contactformulier",
+      "firstName": "Voornaam",
+      "lastName": "Achternaam",
+      "email": "E-mail",
+      "phone": "Telefoon (optioneel)",
+      "subject": "Onderwerp",
+      "message": "Bericht",
+      "consent": "Ik ga ermee akkoord dat mijn gegevens worden verwerkt in overeenstemming met het",
+      "privacyPolicy": "privacybeleid",
+      "submit": "Verstuur bericht",
+      "submitting": "Verzenden...",
+      "placeholders": {
+        "firstName": "Uw voornaam",
+        "lastName": "Uw achternaam",
+        "email": "uw.email@voorbeeld.com",
+        "phone": "+32 473 99 91 70",
+        "subject": "Selecteer een onderwerp",
+        "message": "Uw bericht..."
+      },
+      "subjectOptions": {
+        "information": "Informatieverzoek",
+        "registration": "Inschrijving",
+        "partnership": "Partnerschap",
+        "other": "Anders"
+      },
+      "validation": {
+        "firstName": "Voornaam moet minimaal 2 tekens bevatten",
+        "lastName": "Achternaam moet minimaal 2 tekens bevatten",
+        "email": "Voer een geldig e-mailadres in",
+        "phone": "Telefoonnummer moet minimaal 9 cijfers bevatten",
+        "subject": "Selecteer een onderwerp",
+        "messageMin": "Bericht moet minimaal 10 tekens bevatten",
+        "messageMax": "Bericht mag niet meer dan 500 tekens bevatten",
+        "consent": "U moet akkoord gaan met het privacybeleid"
+      },
+      "success": {
+        "title": "Bericht verzonden!",
+        "description": "We zullen zo snel mogelijk antwoorden."
+      },
+      "error": {
+        "title": "Fout",
+        "description": "Er is een fout opgetreden bij het verzenden van het bericht.",
+        "retry": "Opnieuw proberen"
+      },
+      "successMessage": {
+        "title": "Bericht succesvol verzonden!",
+        "description": "Bedankt voor uw bericht. We nemen zo snel mogelijk contact met u op.",
+        "button": "Nog een bericht sturen"
+      }
+    }
+  },
+  "reservationIndividual": {
+  "title1": "Individuele",
+  "title2": "Sessies",
+  "description": "Maak snel vooruitgang met een gepersonaliseerde training aangepast aan jouw specifieke behoeften",
+  "button": "Ontdek onze formules",
+  "badge": "Gepersonaliseerd",
+  "title3": "Op maat gemaakte training",
+  "title4": "Waarom kiezen voor een",
+  "title5": "individuele sessie",
+  "description2": "Individuele sessies bieden een gepersonaliseerde aanpak die snellere vooruitgang mogelijk maakt. Onze gekwalificeerde trainers passen elke oefening aan jouw specifieke behoeften aan om je technische en tactische ontwikkeling te maximaliseren.",
+  "attention": "Persoonlijke aandacht",
+  "attentionDescription": "100% van de aandacht van de trainer is gericht op jouw vooruitgang",
+  "progression": "Versnelde vooruitgang",
+  "progressionDescription": "Ontwikkel je vaardigheden tot 3 keer sneller dan in groepstrainingen",
+  "objectifs": "Gerichte doelstellingen",
+  "objectifsDescription": "Werk specifiek aan de aspecten die je wilt verbeteren",
+  "flexibility": "Flexibele planning",
+  "flexibilityDescription": "Kies de dag en het tijdstip die jou het beste uitkomen",
+  "formules": {
+    "title": "Onze formules voor",
+    "title2": "sessies",
+    "description": "We bieden verschillende formules aan die zijn afgestemd op alle niveaus en doelstellingen. Kies degene die het beste bij jouw behoeften past.",
+    "technique": {
+      "title": "Individuele Techniek",
+      "description": "Technische verbetering",
+      "session": "sessie",
+      "items": {
+        "item1": "Werken aan technische bewegingen",
+        "item2": "Controle en passes",
+        "item3": "Dribbels en schijnbewegingen",
+        "item4": "Schoten en afwerking"
+      },
+      "button": "Boek deze sessie"
+    },
+    "tactique": {
+      "badge": "Populair",
+      "title": "Speltactiek",
+      "description": "Spelvisie en intelligentie",
+      "session": "sessie",
+      "items": {
+        "item1": "Spel lezen",
+        "item2": "Positie kiezen",
+        "item3": "Besluitvorming",
+        "item4": "Gepersonaliseerde video-analyse",
+        "item5": "Wedstrijdsituaties"
+      },
+      "button": "Boek deze sessie"
+    },
+    "physique": {
+      "title": "Fysieke Voorbereiding",
+      "description": "Conditie en prestaties",
+      "session": "sessie",
+      "items": {
+        "item1": "Snelheid en acceleratie",
+        "item2": "Specifiek uithoudingsvermogen",
+        "item3": "Kracht en vermogen",
+        "item4": "Behendigheid en coördinatie",
+        "item5": "Gepersonaliseerd programma"
+      },
+      "button": "Boek deze sessie"
+    },
+    "custom": {
+      "description": "Heb je specifieke behoeften? We kunnen een sessie op maat voor je creëren.",
+      "button": "Vraag een gepersonaliseerde sessie aan"
+    },
+    "duration": {
+      "title": "Kies je",
+      "title2": "duur",
+      "description": "Pas de duur van je sessie aan op basis van je doelstellingen en beschikbaarheid",
+      "60": "60 minuten",
+      "90": "90 minuten",
+      "120": "120 minuten",
+      "standard": "Standaardprijs",
+      "sessionStandard": "Standaardsessie",
+      "plus40": "+40%",
+      "sessionApprofondie": "Verdiepende sessie",
+      "plus80": "+80%",
+      "sessionIntensive": "Intensieve sessie",
+      "button": "Bekijk al onze formules"
+    }
+  },
+  "form": {
+    "title": "Boek je",
+    "title2": "sessie",
+    "description": "Vul het formulier hiernaast in om je individuele sessie te boeken. Ons team neemt zo snel mogelijk contact met je op om je reservering te bevestigen.",
+    "availability": "Beschikbaarheid",
+    "availabilityDescription": "Maandag tot vrijdag: 16u - 20u",
+    "availabilityDescription2": "Zaterdag: 9u - 17u",
+    "direct": "Direct contact",
+    "directDescription": "Verantwoordelijke voor individuele sessies",
+    "important": "Belangrijke informatie",
+    "importantDescription": "Kom 15 minuten voor het begin van je sessie aan",
+    "importantDescription2": "Breng je volledige uitrusting mee (schoenen, scheenbeschermers, enz.)",
+    "importantDescription3": "Gratis annulering tot 24 uur voor de sessie",
+    "download": "Download de sessiegids",
+    "sessionTypes": {
+      "technique": "Individuele Techniek",
+      "tactique": "Speltactiek",
+      "physique": "Fysieke Voorbereiding",
+      "gardien": "Keeperstraining"
+    },
+    "durations": {
+      "60": "60 minuten",
+      "90": "90 minuten",
+      "120": "120 minuten"
+    },
+    "form": {
+      "title": "Reserveringsformulier",
+      "subtitle": "1. Kies je sessie",
+      "sessionType": "Type sessie",
+      "duration": "Duur van de sessie",
+      "subtitle2": "2. Jouw gegevens",
+      "date": "Gewenste datum",
+      "datePlaceholder": "Selecteer een datum",
+      "time": "Gewenst tijdstip",
+      "timePlaceholder": "Selecteer een tijdstip",
+      "firstName": "Voornaam",
+      "firstNamePlaceholder": "Je voornaam",
+      "lastName": "Achternaam",
+      "lastNamePlaceholder": "Je achternaam",
+      "email": "E-mail",
+      "emailPlaceholder": "Je e-mailadres",
+      "phone": "Telefoon",
+      "phonePlaceholder": "Je telefoonnummer",
+      "age": "Leeftijd",
+      "agePlaceholder": "Je leeftijd",
+      "level": "Niveau",
+      "levelPlaceholder": "Selecteer je niveau",
+      "levels": {
+        "debutant": "Beginner",
+        "intermediaire": "Gemiddeld",
+        "avance": "Gevorderd",
+        "professionnel": "Professioneel"
+      },
+      "objectives": "Specifieke doelstellingen",
+      "objectivesPlaceholder": "Beschrijf je doelstellingen of specifieke behoeften voor deze sessie",
+      "total": "Geschat totaalbedrag",
+      "payment": "De betaling gebeurt ter plaatse vóór de sessie",
+      "button": "Boek mijn sessie",
+      "loading": "Bezig met verzenden...",
+      "success": {
+        "title": "Aanvraag succesvol verzonden!",
+        "subtitle": "We hebben je reserveringsaanvraag voor een sessie goed ontvangen",
+        "subtitle2": "van",
+        "description": "Ons team neemt zo snel mogelijk contact met je op om je reservering te bevestigen.",
+        "button": "Boek een andere sessie",
+        "cancel": "Je kunt je reservering annuleren of wijzigen tot 24 uur voor de sessie"
+      }
+    }
+  }
+  },
+  "activities": {
+      "title": "Onze activiteiten",
+      "subtitle": "Programma's aangepast aan alle niveaus",
+      "description": "Ontdek onze verschillende trainingsformules, stages en gepersonaliseerde programma's.",
+      "button": "Al onze activiteiten",
+      "learnMore": "Meer informatie",
+      "hero": {
+        "title1": "Onze",
+        "title2": "Activiteiten",
+        "description": "Ontdek alle activiteiten die BEFA Academy aanbiedt om de voetbalvaardigheden van uw kind te ontwikkelen."
+      },
+      "regular": "Regulier Programma",
+      "period": "Periode",
+      "frequency": "Frequentie",
+      "sessionsPerWeek": "sessies per week",
+      "duration": "Duur",
+      "minutesPerSession": "minuten per sessie",
+      "age": "Leeftijd",
+      "allAges": "Alle leeftijden",
+      "viewDetails": "Bekijk details",
+      "individual": {
+        "button": "Boek een sessie",
+        "badge": "Gepersonaliseerd",
+        "title": "Individuele Lessen",
+        "title1": "Personaliseer",
+        "title2": "uw ontwikkeling",
+        "description": "Onze individuele lessen bieden persoonlijke aandacht om aan specifieke aspecten van het spel te werken. Ideaal voor het corrigeren van zwakke punten of het ontwikkelen van specifieke vaardigheden met directe en persoonlijke feedback.",
+        "scheduling": "Planning",
+        "appointmentBased": "Op afspraak",
+        "duration": "Duur",
+        "hourPerSession": "1 uur per sessie",
+        "format": "Formaat",
+        "formatDescription": "1-op-1 of kleine groep (2-3)",
+        "analysis": "Analyse",
+        "analysisDescription": "Video en gedetailleerde feedback",
+        "bookSession": "Sessie boeken"
+      },
+      "cta": {
+        "title": "Klaar om deel te nemen aan een van onze activiteiten?",
+        "description": "Neem contact met ons op voor meer informatie of om u in te schrijven voor een van onze activiteiten.",
+        "button": "Contact opnemen"
+      },
+      "aboutActivity": "Over deze activiteit",
+"groupsSchedules": "Groepen & Uren",
+"sessionDates": "Sessiedata",
+"practicalInfo": "Praktische informatie",
+"location": "Locatie",
+"sessionPackages": "Sessiepakketten",
+"perSession": "per sessie",
+"choosePackage": "Kies een pakket",
+"features": "Kenmerken",
+"registerActivity": "Inschrijven voor deze activiteit",
+"needInfo": "Meer informatie nodig?",
+"contactUs": "Aarzel niet om contact met ons op te nemen als je vragen hebt over deze activiteit.",
+"contactButton": "Contacteer ons",
+"otherActivities": "Andere activiteiten die je misschien interesseren",
+"noOtherActivities": "Er zijn momenteel geen andere beschikbare activiteiten.",
+"viewAll": "Bekijk al onze activiteiten",
+"popular": "Populair"
+
+    },
+    "gallery": {
+  "hero": {
+    "title1": "Onze",
+    "title2": "Galerij",
+    "description": "Ontdek in beeld de activiteiten en hoogtepunten van BEFA Academy"
+  },
+  "filters": {
+    "all": "Alle foto's"
+  },
+  "loading": "Afbeeldingen laden...",
+  "cta": {
+    "title": "Sluit je aan bij het BEFA Academy avontuur",
+    "description": "Ontdek onze activiteiten en schrijf je vandaag nog in",
+    "activities": "Bekijk onze activiteiten",
+    "contact": "Contacteer ons"
+  }
+},
+  "inscription": {
+    "title": "Inschrijving",
+    "academy": "BEFA Academy",
+    "subtitle": "Schrijf je in voor de activiteit",
+    "chooseActivity": "Kies een activiteit om je in te schrijven",
+    "loading": "Activiteit wordt geladen...",
+    "steps": {
+      "step1": "Stap 1: Informatie",
+      "step2": "Stap 2: Betaling"
+    },
+    "sections": {
+      "activity": {
+        "title": "Geselecteerde activiteit",
+        "selectPrompt": "Selecteer een activiteit om verder te gaan.",
+        "chooseLabel": "Kies een activiteit",
+        "selectPlaceholder": "Selecteer een activiteit",
+        "startingFrom": "Vanaf",
+        "packageLabel": "Sessie pakket",
+        "packagePlaceholder": "Selecteer een pakket",
+        "pricePerSession": "€/sessie",
+        "groupLabel": "Groep",
+        "groupPlaceholder": "Selecteer een groep"
+      },
+      "player": {
+        "title": "Informatie over de speler",
+        "firstName": "Voornaam",
+        "firstNamePlaceholder": "Voornaam van de speler",
+        "lastName": "Achternaam",
+        "lastNamePlaceholder": "Achternaam van de speler",
+        "birthDate": "Geboortedatum",
+        "club": "Club",
+        "clubPlaceholder": "Naam van de club"
+      },
+      "parent": {
+        "title": "Ouder/voogd informatie",
+        "email": "E-mail",
+        "emailPlaceholder": "jouw.email@voorbeeld.com",
+        "phone": "Telefoon",
+        "phonePlaceholder": "+32 473 99 91 70",
+        "secondaryPhone": "Tweede telefoonnummer"
+      },
+      "address": {
+        "title": "Adres",
+        "street": "Straat en nummer",
+        "streetPlaceholder": "Straat en nummer",
+        "postalCode": "Postcode",
+        "postalCodePlaceholder": "Postcode",
+        "city": "Stad",
+        "cityPlaceholder": "Stad"
+      },
+      "medical": {
+        "title": "Medische informatie",
+        "info": "Belangrijke medische informatie (allergieën, medicatie, enz.)",
+        "placeholder": "Vermeld hier belangrijke medische informatie die de trainers moeten weten.",
+        "confidentiality": "Deze informatie blijft vertrouwelijk."
+      },
+      "equipment": {
+        "title": "Uitrusting",
+        "include": "Voeg de officiële BEFA Academy-uitrusting toe",
+        "included": "Inbegrepen",
+        "description": "Bevat een t-shirt en short in de kleuren van de academie",
+        "tshirtSize": "T-shirt maat",
+        "tshirtPlaceholder": "Selecteer een maat",
+        "shortSize": "Short maat",
+        "shortPlaceholder": "Selecteer een maat"
+      },
+      "promo": {
+        "title": "Promotiecode",
+        "placeholder": "Voer je promotiecode in",
+        "apply": "Toepassen",
+        "applied": "Promotiecode toegepast! Korting van",
+        "invalid": "Ongeldige code",
+        "invalidMessage": "De ingevoerde promotiecode bestaat niet.",
+        "notYetValid": "Code nog niet geldig",
+        "notYetValidMessage": "Deze promotiecode is nog niet geldig.",
+        "expired": "Code verlopen",
+        "expiredMessage": "Deze code is verlopen.",
+        "exhausted": "Code opgebruikt",
+        "exhaustedMessage": "Deze code is volledig gebruikt.",
+        "notApplicable": "Niet toepasbaar",
+        "notApplicableMessage": "Deze code is niet geldig voor deze activiteit.",
+        "personal": "Persoonlijke code",
+        "personalMessage": "Deze code is voor een andere speler bedoeld.",
+        "error": "Fout",
+        "errorMessage": "Er is een fout opgetreden bij het controleren van de code."
+      },
+      "payment": {
+        "title": "Betalingsmethode",
+        "online": "Online betaling",
+        "redirect": "Je wordt doorgestuurd naar de betaalpagina om de betaling uit te voeren."
+      },
+      "consent": {
+        "title": "Toestemmingen",
+        "terms": "Ik ga akkoord met de",
+        "termsLink": "algemene voorwaarden",
+        "and": "en het",
+        "privacyLink": "privacybeleid",
+        "photo": "Ik geef BEFA Academy toestemming om foto’s en video’s van mijn kind, genomen tijdens activiteiten, te gebruiken voor communicatie (website, sociale media, brochures, enz.).",
+        "photoOptional": "Deze toestemming is optioneel en kan op elk moment worden ingetrokken."
+      },
+      "summary": {
+        "title": "Samenvatting van je bestelling",
+        "group": "Groep",
+        "equipment": "Uitrusting",
+        "equipmentDescription": "Officieel t-shirt en short",
+        "discount": "Korting",
+        "promoApplied": "Promotiecode toegepast",
+        "total": "Totaal"
+      }
+    },
+    "buttons": {
+      "continue": "Doorgaan naar betaling",
+      "back": "Terug",
+      "payment": "Ga naar betaling",
+      "confirm": "Inschrijving bevestigen",
+      "processing": "Bezig met verwerken..."
+    },
+    "errors": {
+      "activityMissing": "Activiteit ontbreekt",
+      "activityMissingMessage": "Selecteer een activiteit voordat je verdergaat.",
+      "incompleteForm": "Onvolledig formulier",
+      "incompleteFormMessage": "Vul alle verplichte velden in voordat je verdergaat.",
+      "registrationError": "Inschrijvingsfout",
+      "registrationErrorMessage": "Er is een fout opgetreden bij het inschrijven. Probeer het opnieuw.",
+      "loadingError": "Fout bij laden",
+      "loadingErrorMessage": "Kan de activiteitgegevens niet laden"
+    },
+    "success": {
+      "title": "Inschrijving geslaagd!",
+      "message": "Je inschrijving is succesvol verzonden. Je ontvangt binnenkort een bevestigingsmail met betalingsgegevens en verdere instructies.",
+      "contact": "Als je vragen hebt, neem dan gerust contact met ons op via e-mail op",
+      "email": "info@befa-academy.be",
+      "or": "of telefonisch op",
+      "phone": "+32 473 99 91 70",
+      "homeButton": "Terug naar home",
+      "activitiesButton": "Bekijk alle activiteiten"
+    },
+    "payment": {
+      "title": "Voltooi je inschrijving",
+      "subtitle": "Voltooi je inschrijving via de instructies hieronder"
+    },
+    "form": {
+      "step1Title": "Inschrijvingsgegevens",
+      "step1Subtitle": "Vul de informatie in over de speler en de activiteit",
+      "step2Title": "Betaling en bevestiging",
+      "step2Subtitle": "Rond je inschrijving af door een betaalmethode te kiezen"
+    },
+    "validation": {
+      "firstNameRequired": "Voornaam moet minstens 2 tekens bevatten",
+      "lastNameRequired": "Achternaam moet minstens 2 tekens bevatten",
+      "birthDateInvalid": "Voer een geldige geboortedatum in",
+      "clubRequired": "Voer de naam van de club in",
+      "activityRequired": "Selecteer een optie",
+      "groupRequired": "Selecteer een groep",
+      "emailInvalid": "Voer een geldig e-mailadres in",
+      "phoneInvalid": "Het telefoonnummer moet geldig zijn",
+      "addressRequired": "Adres is verplicht",
+      "postalCodeInvalid": "Voer een geldige postcode in",
+      "cityRequired": "Stad is verplicht"
+    },
+    "sizes": {
+      "6-8": "6-8 jaar",
+      "8-10": "8-10 jaar",
+      "10-12": "10-12 jaar",
+      "12-14": "12-14 jaar",
+      "XS": "XS",
+      "S": "S",
+      "M": "M",
+      "L": "L",
+      "XL": "XL"
+    }
+  }
+
+
+
+} 

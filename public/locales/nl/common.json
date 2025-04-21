@@ -1,0 +1,317 @@
+{
+    "home": {
+      "hero": {
+        "title": "Academy - Ontwikkel je voetbalpotentieel",
+        "description": "Gespecialiseerde voetbalschool met innovatieve trainingsprogramma's voor jonge voetballers van alle niveaus.",
+        "button": "Bekijk onze activiteiten",
+        "more": "Meer informatie"
+      },
+      "partnership": "In samenwerking met",
+      "approach": {
+        "title": "Onze aanpak",
+        "subtitle": "Een complete en gepersonaliseerde training",
+        "description": "Wij bieden een geïntegreerde aanpak die techniek, tactiek en mentale voorbereiding combineert om complete spelers te ontwikkelen.",
+        "technique": {
+          "tite": "Individuele techniek",
+          "description": "Verbetering van fundamentele technische vaardigheden en positiespecifieke oefeningen."
+        },
+        "tactics": {
+          "title": "Tactisch inzicht",
+          "description": "Ontwikkeling van spelbegrip en besluitvorming."
+        },
+        "mental": {
+          "title": "Mentale voorbereiding",
+          "description": "Versterking van zelfvertrouwen, concentratie en weerbaarheid onder druk."
+        }
+      },
+      "activities": {
+        "title": "Onze activiteiten",
+        "subtitle": "Programma's aangepast aan alle niveaus",
+        "description": "Ontdek onze verschillende trainingsformules, stages en gepersonaliseerde programma's.",
+        "button": "Al onze activiteiten",
+        "learnMore": "Meer informatie",
+        "individual": {
+          "button": "Boek een sessie"
+        }
+      },
+      "testimonials": {
+        "title": "Getuigenissen",
+        "subtitle": "Wat onze spelers zeggen",
+        "description": "Ontdek de ervaringen van onze spelers en ouders die aan onze programma's hebben deelgenomen."
+      },
+      "partners": {
+        "title": "Onze partners",
+        "subtitle": "Zij vertrouwen op ons",
+        "description": "BEFA Academy werkt samen met kwaliteitspartners om de best mogelijke ervaring te bieden.",
+        "cta": "Wilt u partner worden en onze academie ondersteunen?",
+        "button": "Word partner"
+      },
+      "cta": {
+        "title": "Klaar om je bij BEFA Academy aan te sluiten?",
+        "description": "Schrijf je in voor een van onze activiteiten en begin met je vooruitgang.",
+        "button": "Nu inschrijven"
+      }
+    },
+    "individual": {
+      "title": "Individuele training",
+      "description": "Gepersonaliseerde sessies om aan uw specifieke behoeften te voldoen"
+    },
+    "sponsoring": {
+      "title1": "Word",
+      "title2": "Partner",
+      "subtitle": "Ondersteun de ontwikkeling van jonge talenten en koppel uw imago aan positieve waarden",
+      "button": "Ontdek onze formules",
+      "story": {
+        "title": "Ons",
+        "title2": "Verhaal",
+        "subtitle": "De Voetbalacademie van Grimbergen",
+        "description": "De eerste voetbalacademie van Grimbergen werd opgericht om lokale talenten te helpen zich verder te ontwikkelen en te groeien. Wij bieden hoogwaardige begeleiding met opgeleide en ervaren trainers, evenals moderne infrastructuur, om elke speler in staat te stellen zijn potentieel te maximaliseren.",
+        "description2": "Onze missie : de champions van morgen te vormen, terwijl we blijven dicht bij onze lokale gemeenschap.",
+        "values": {
+          "title": "Missie en Waarden",
+          "subtitle": "Luisteren en Zorgzaamheid",
+          "description": "Elke speler wordt ondersteund, gehoord en aangemoedigd om zichzelf te overtreffen, ongeacht zijn doelen",
+          "subtitle2": "Professionaliteit en Kwaliteit",
+          "description2": "Onze coaches, opgeleid en gepassioneerd, bieden hoogwaardige begeleiding",
+          "subtitle3": "Respect",
+          "description3": "Integriteit, fair play en solidariteit staan centraal bij elke training"
+        }
+      },
+      "formules": {
+        "title1": "Onze Partnerschap",
+        "title2": "Formules",
+        "description": "Wij bieden verschillende formules aan, aangepast aan alle budgetten en doelstellingen. Kies de formule die het beste bij uw behoeften past.",
+        "supporter": {
+          "title": "Supporter",
+          "description": "Basispartner",
+          "year": "jaar",
+          "items": {
+            "item1": "Reclame op de website van de academie",
+            "item2": "Vermelding op sociale media van de academie (bedankpost met uw logo)",
+            "button": "Deze formule kiezen"
+          }
+        },
+        "champion": {
+          "title": "Champion",
+          "description": "Tussenpartner",
+          "year": "jaar",
+          "items": {
+            "item1": "Reclame op de website van de academie",
+            "item2": "Sponsorlogo op shorts of mouw*",
+            "item3": "Publicatie op sociale media (1 post/jaar met uw logo)",
+            "button": "Deze formule kiezen"
+          }
+        },
+        "elite": {
+          "badge": "Populair",
+          "title": "Elite",
+          "description": "Bevoorrechte partner",
+          "year": "jaar",
+          "items": {
+            "item1": "Reclame op de website van de academie",
+            "item2": "Sponsorlogo op shorts of mouw*",
+            "item3": "Aanwezigheid op onze communicatiemiddelen (posters, flyers,...)",
+            "item4": "Regelmatige reclame op sociale media (2 posts per jaar)",
+            "button": "Deze formule kiezen"
+          }
+        },
+        "legend": {
+          "title": "Legende",
+          "description": "Hoofdpartner",
+          "year": "jaar",
+          "items": {
+            "item1": "Reclame op de website van de academie",
+            "item2": "Premium aanwezigheid op onze site",
+            "item3": "Logo op het shirt",
+            "item4": "Voor, achter of stafuitrusting*",
+            "items5": "Aanwezigheid in al onze communicatie",
+            "item6": "E-mail, flyers, brochures",
+            "item7": "Reclame op sociale media",
+            "item8": "4 posts per jaar",
+            "item9": "Zichtbaarheid tijdens evenementen",
+            "item10": "Banners en aankondigingen",
+            "item11": "VIP-toegang",
+            "item12": "Tot evenementen en wedstrijden"
+          }
+        },
+        "info": "*De plaatsing van uw logo op onze uitrusting is afhankelijk van beschikbaarheid.",
+        "contact": "Neem contact met ons op voor andere verzoeken zoals sponsoring van evenementen, ballen of specifieke uitrusting.",
+        "button": "Vraag een gepersonaliseerde offerte aan"
+      },
+      "partners": {
+        "title1": "Onze",
+        "title2": "Partners",
+        "description": "Ontdek de bedrijven die ons vertrouwen en onze academie ondersteunen.",
+        "button": "Bekijk al onze partners"
+      },
+      "testimonials": {
+        "title1": "Wat onze",
+        "title2": "partners zeggen",
+        "description": "Ontdek de getuigenissen van onze huidige sponsors en hun ervaring met BEFA Academy.",
+        "testimonials": {
+          "moupress": {
+            "status": "Marketing Directeur",
+            "description": "Onze samenwerking met BEFA Academy heeft ons in staat gesteld onze lokale zichtbaarheid te vergroten en ons te associëren met positieve waarden. Een uitstekend rendement op investering."
+          },
+          "karbill": {
+            "status": "MVO-verantwoordelijke",
+            "description": "We zijn er trots op de ontwikkeling van jonge talenten te ondersteunen. Ons partnerschap met BEFA Academy past perfect in ons MVO-beleid."
+          }
+        }
+      },
+      "form": {
+        "title1": "Geïnteresseerd in een",
+        "title2": "partnerschap",
+        "description": "Vul het formulier hiernaast in en ons team zal zo spoedig mogelijk contact met u opnemen om de partnerschapsmogelijkheden te bespreken die zijn aangepast aan uw behoeften en doelstellingen.",
+        "direct": "Direct contact",
+        "website": "Website",
+        "download": "Download ons sponsordossier",
+        "downloadText": "Ons volledige dossier bevat alle informatie over onze partnerschapsformules, ons publiek en de gedetailleerde voordelen.",
+        "downloadButton": "Download het dossier (PDF)",
+        "formSchema": {
+          "companyName": "De bedrijfsnaam moet minimaal 2 tekens bevatten",
+          "contactName": "De contactnaam moet minimaal 2 tekens bevatten",
+          "email": "Voer een geldig e-mailadres in",
+          "phone": "Het telefoonnummer moet minimaal 9 cijfers bevatten",
+          "position": "De functie moet minimaal 2 tekens bevatten",
+          "package": "Selecteer een formule",
+          "message10": "Het bericht moet minimaal 10 tekens bevatten",
+          "message500": "Het bericht mag niet meer dan 500 tekens bevatten",
+          "consent": "U moet akkoord gaan met het privacybeleid"
+        },
+        "formuleLabels": {
+          "supporter": "Supporter Formule - €650/jaar",
+          "champion": "Champion Formule - €1.650/jaar",
+          "elite": "Elite Formule - €2.750/jaar",
+          "legend": "Legende Formule - €3.450/jaar",
+          "custom": "Aangepaste formule"
+        },
+        "form":{
+                "title": "Partnerschapsaanvraag",
+                "success":{
+                    "title": "Aanvraag succesvol verzonden!",
+                    "description": "Bedankt voor uw interesse in een partnerschap met BEFA Academy. Ons team zal zo spoedig mogelijk contact met u opnemen om de partnerschapsmogelijkheden te bespreken die zijn aangepast aan uw behoeften en doelstellingen.",
+                    "button": "Stuur nog een aanvraag"
+                },
+                "companyName": "Bedrijfsnaam",
+                "companyNamePlaceholder": "Uw bedrijf",
+                "contactName": "Contactnaam",
+                "contactNamePlaceholder": "Voornaam en achternaam",
+                "email": "Email",
+                "emailPlaceholder": "Uw email",
+                "phone": "Telefoon",
+                "phonePlaceholder": "Uw telefoonnummer",
+                "position": "Functie",
+                "positionPlaceholder": "Uw functie",
+                "package": "Formule",
+                "packagePlaceholder": "Kies een formule",
+                "message": "Bericht",
+                "messagePlaceholder": "Preciseer uw verwachtingen, vragen of specifieke behoeften...",
+                "messageMaxLength": "500 tekens",
+                "consent": "Ik ga ermee akkoord dat mijn gegevens worden verwerkt in overeenstemming met het",
+                "formuleLabels":{
+                    "supporter": "Supporter - €650/jaar",
+                    "champion": "Champion - €1.650/jaar",
+                    "elite": "Elite - €2.750/jaar",
+                    "legend": "Legende - €3.450/jaar",
+                    "custom": "Aangepaste formule"
+                },
+                "button": "Stuur mijn aanvraag",
+                "loading": "Verzenden..."
+            }
+      }
+    },
+    "header": {
+      "home": "Home",
+      "activities": "Activiteiten",
+      "sponsoring": "Sponsoring",
+      "gallery": "Galerij",
+      "contact": "Contact",
+      "register": "Inschrijven"
+    },
+    "footer": {
+      "description": "BEFA Academy biedt innovatieve trainingsprogramma's aan om het volledige potentieel van jonge voetballers te ontwikkelen.",
+      "quickLinks": "Snelle links",
+      "titleLang": "titleNl",
+      "partnership": "In samenwerking met KSC Grimbergen",
+      "copyright": "Alle rechten voorbehouden",
+      "privacyPolicy": "Privacybeleid",
+      "termsOfUse": "Gebruiksvoorwaarden",
+      "cookies": "Cookies"
+    },
+    "contact": {
+      "hero": {
+        "title": "Contact",
+        "description": "Een vraag, verzoek om informatie of inschrijving? Wij staan voor u klaar."
+      },
+      "info": {
+        "title": "Onze contactgegevens",
+        "description": "Aarzel niet om rechtstreeks contact met ons op te nemen of gebruik het formulier hiernaast voor uw verzoek."
+      },
+      "phone": {
+        "title": "Telefoon",
+        "hours": "Maandag tot vrijdag, 9u-17u"
+      },
+      "email": {
+        "title": "E-mail",
+        "response": "Wij reageren binnen 24-48 uur"
+      },
+      "address": {
+        "title": "Adres"
+      },
+      "map": {
+        "title": "Ons vinden"
+      },
+      "form": {
+        "title": "Contactformulier",
+        "firstName": "Voornaam",
+        "lastName": "Achternaam",
+        "email": "E-mail",
+        "phone": "Telefoon (optioneel)",
+        "subject": "Onderwerp",
+        "message": "Bericht",
+        "consent": "Ik ga ermee akkoord dat mijn gegevens worden verwerkt in overeenstemming met het",
+        "privacyPolicy": "privacybeleid",
+        "submit": "Verstuur bericht",
+        "submitting": "Verzenden...",
+        "placeholders": {
+          "firstName": "Uw voornaam",
+          "lastName": "Uw achternaam",
+          "email": "uw.email@voorbeeld.com",
+          "phone": "+32 473 99 91 70",
+          "subject": "Selecteer een onderwerp",
+          "message": "Uw bericht..."
+        },
+        "subjectOptions": {
+          "information": "Informatieverzoek",
+          "registration": "Inschrijving",
+          "partnership": "Partnerschap",
+          "other": "Anders"
+        },
+        "validation": {
+          "firstName": "Voornaam moet minimaal 2 tekens bevatten",
+          "lastName": "Achternaam moet minimaal 2 tekens bevatten",
+          "email": "Voer een geldig e-mailadres in",
+          "phone": "Telefoonnummer moet minimaal 9 cijfers bevatten",
+          "subject": "Selecteer een onderwerp",
+          "messageMin": "Bericht moet minimaal 10 tekens bevatten",
+          "messageMax": "Bericht mag niet meer dan 500 tekens bevatten",
+          "consent": "U moet akkoord gaan met het privacybeleid"
+        },
+        "success": {
+          "title": "Bericht verzonden!",
+          "description": "We zullen zo snel mogelijk antwoorden."
+        },
+        "error": {
+          "title": "Fout",
+          "description": "Er is een fout opgetreden bij het verzenden van het bericht.",
+          "retry": "Opnieuw proberen"
+        },
+        "successMessage": {
+          "title": "Bericht succesvol verzonden!",
+          "description": "Bedankt voor uw bericht. We nemen zo snel mogelijk contact met u op.",
+          "button": "Nog een bericht sturen"
+        }
+      }
+    }
+  } 

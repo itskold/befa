@@ -1,0 +1,407 @@
+{
+    "meta":{
+        "title": "BEFA Academy - Belgian Elite Football Academy",
+        "description": "Académie de football d'élite belge pour les jeunes talents"
+    },
+    "header":{
+        "home": "Accueil",
+        "activities": "Activités",
+        "sponsoring": "Sponsoring",
+        "gallery": "Galerie",
+        "contact": "Contact",
+        "login": "Connexion",
+        "register": "S'inscrire"
+    },
+    "footer":{
+        "description": "BEFA Academy est une académie de football d'élite belge pour les jeunes talents. Nous offrons des cours individuels et groupes pour tous les niveaux de compétence.",
+        "quickLinks": "Liens rapides",
+        "home": "Accueil",
+        "activities": "Activités",
+        "gallery": "Galerie",
+        "contact": "Contact",
+        "sponsoring": "Devenir Sponsor",
+        "titleLang":"titleFr",
+        "partnership": "En partenariat avec KSC Grimbergen",
+        "copyright": "Tous droits réservés.",
+        "termsOfUse": "Conditions d'utilisation",
+        "privacyPolicy": "Politique de confidentialité",
+        "cookies": "Cookies"
+    },
+    "individual":{
+        "title": "Cours Individuels",
+        "description": "Nos cours individuels offrent une attention personnalisée pour travailler sur des aspects spécifiques du jeu."
+    },
+    "home":{
+        "data":{
+            "titleLang":"titleFr",
+            "subtitleLang":"subtitleFr"
+        },
+        "hero":{
+            "title": " : JOUER, PROGRESSER, S'ÉPANOUIR !",
+            "description": "Chez BEFA, l'enfant est au centre de tout. Il perfectionne sa technique, développe sa coordination et progresse dans un environnement de partage et de convivialité.",
+            "button": "Découvrir nos activités",
+            "more": "En savoir plus",
+            "partnership": "En partenariat avec KSC Grimbergen"
+        },
+        "approach":{
+            "title": "Notre Approche",
+            "subtitle": "Une formation de qualité pour les jeunes talents",
+            "description": "Nos entraînements en groupe, enrichis d'exercices individuels, garantissent plaisir et progression.",
+            "technique":{
+                "title": "Technique",
+                "description": "Développement des compétences techniques fondamentales pour maîtriser le ballon dans toutes les situations."
+            },
+            "tactics":{
+                "title": "Tactique",
+                "description": "Compréhension du jeu et prise de décision rapide pour anticiper les actions sur le terrain."
+            },
+            "mental":{
+                "title": "Mental",
+                "description": "Renforcement de la confiance, de la concentration et de la résilience pour performer sous pression."
+            }
+        },
+        "activities":{
+            "title": "Nos activités",
+            "subtitle": "Des activités adaptées à tous les niveaux",
+            "description": "Découvrez nos différents activités conçus pour développer les compétences de chaque joueur.",
+            "individual":{
+                "button1": "Réserver une session",
+                "button2": "En savoir plus"
+            },
+            "button": "Voir toutes nos activités"
+        },
+        "testimonials":{
+            "title": "Témoignages",
+            "subtitle": "Ce que disent nos joueurs et parents",
+            "description": "Découvrez les expériences de ceux qui ont rejoint la BEFA Academy."
+        },
+        "partners":{
+            "title": "Nos partenaires",
+            "subtitle": "Ils soutiennent BEFA Academy",
+            "description": "Nous remercions nos sponsors et partenaires pour leur soutien précieux qui nous permet de développer notre académie.",
+            "cta": "Vous souhaitez devenir partenaire de BEFA Academy et soutenir le développement des jeunes talents ?",
+            "button": "Devenir sponsor"
+        },
+        "cta":{
+            "title": "Prêt à rejoindre BEFA Academy?",
+            "description": "Découvrez nos activités et commencez votre parcours vers l'excellence footballistique.",
+            "button": "Voir nos activités"
+        }
+    },
+    "sponsoring":{
+        "title1": "Devenir",
+        "title2": "Partenaire",
+        "subtitle": "Soutenez le développement des jeunes talents et associez votre image à des valeurs positives",
+        "button": "Découvrir nos formules",
+        "story":{
+            "title": "Notre Histoire",
+            "subtitle": "L'Académie de Football de Grimbergen",
+            "description": "La première académie de football de Grimbergen a été créée pour aider les talents locaux à se développer et progresser davantage. Nous offrons un encadrement de qualité avec des entraîneurs formés et expérimentés, ainsi que des infrastructures modernes, afin de permettre à chaque joueur de maximiser son potentiel.",
+            "values":{
+                "title": "Mission et Valeurs",
+                "subtitle": "Écoute et Bienveillance",
+                "description": "Chaque joueur est soutenu, écouté et encouragé à se dépasser, quels que soient ses objectifs",
+                "subtitle2": "Professionnalisme et Qualité",
+                "description2": "Nos coachs, formés et passionnés, offrent un encadrement de haut niveau",
+                "subtitle3": "Respect",
+                "description3": "Intégrité, fair-play et solidarité sont au centre de chaque entraînement"
+            }
+        },
+        "formules":{
+            "title1": "Nos Formules de",
+            "title2": "partenariat",
+            "description": "Nous proposons différentes formules adaptées à tous les budgets et objectifs. Choisissez celle qui correspond le mieux à vos besoins.",
+            "supporter":{
+                "title": "Supporter",
+                "description": "Partenaire de base",
+                "year": "an",
+                "items":{
+                    "item1": "Publicité sur le site web de l'académie",
+                    "item2": "Mention sur les réseaux sociaux de l'académie (post remerciement avec votre logo)",
+                    "button": "Choisir cette formule"
+                }
+            },
+            "champion":{
+                "title": "Champion",
+                "description": "Partenaire intermédiaire",
+                "year": "an",
+                "items":{
+                    "item1": "Publicité sur le site web de l'académie",
+                    "item2": "Logo sponsor sur les shorts ou manche*",
+                    "item3": "Publication sur les réseaux sociaux (1 post/an avec votre logo)",
+                    "button": "Choisir cette formule"
+                }
+            },
+            "elite":{
+                "badge": "Populaire",
+                "title": "Élite",
+                "description": "Partenaire privilégié",
+                "year": "an",
+                "items":{
+                    "item1": "Publicité sur le site web de l'académie",
+                    "item2": "Logo sponsor sur les shorts ou manche*",
+                    "item3": "Présence sur nos supports de communication (affiches, flyers,...)",
+                    "item4": "Publicité régulière sur les réseaux sociaux (2 posts par an)",
+                    "button": "Choisir cette formule"
+                }
+            },
+            "legend":{
+                "title": "Légende",
+                "description": "Partenaire principal",
+                "year": "an",
+                "items":{
+                    "item1": "Publicité sur le site web de l'académie",
+                    "item2": " Présence premium sur notre site",
+                    "item3": "Logo sur le maillot",
+                    "item4": "Avant, arrière ou équipement du staff*",
+                    "items5": "Présence sur toutes nos communications",
+                    "item6": "Email, flyers, brochures",
+                    "item7": "Publicité sur les réseaux sociaux",
+                    "item8": "4 posts par an",
+                    "item9": "Visibilité lors des événements",
+                    "item10":"Bannières et annonces",
+                    "item11": "Accès VIP",
+                    "item12": "Aux événements et matchs"
+
+                }
+            },
+            "info":" *L'emplacement de votre logo sur nos équipements dépend des disponibilités.",
+            "contact": "Contactez-nous pour tout autre demande comme le sponsoring d'évènements, de ballons ou d'équipements spécifiques.",
+            "button": "Demander une offre personnalisée"
+        },
+        "partners":{
+            "title1": "Nos",
+            "title2": "Partenaires",
+            "description": "Découvrez les entreprises qui nous font confiance et soutiennent notre académie.",
+            "button": "Voir tous nos partenaires"
+        },
+        "testimonials":{
+            "title1": "Ce que disent nos",
+            "title2": "partenaires",
+            "description": " Découvrez les témoignages de nos sponsors actuels et leur expérience avec BEFA Academy.",
+            "testimonials":{
+                "moupress": {
+                    "status": "Directeur Marketing",
+                    "description": "Notre partenariat avec BEFA Academy nous a permis d'accroître notre visibilité locale et de nous associer à des valeurs positives. Un excellent retour sur investissement."
+                },
+                "karbill": {
+                    "status": "Responsable RSE",
+                    "description": "Nous sommes fiers de soutenir le développement des jeunes talents. Notre partenariat avec BEFA Academy s'inscrit parfaitement dans notre politique RSE."
+                }
+            }
+        },
+        "form":{
+            "title1": "Intéressé par un",
+            "title2": "partenariat",
+            "description": "Complétez le formulaire ci-contre et notre équipe vous contactera dans les plus brefs délais pour discuter des possibilités de partenariat adaptées à vos besoins et objectifs.",
+            "direct": "Contact direct",
+            "website": "Site web",
+            "download": "Téléchargez notre dossier de sponsoring",
+            "downloadText":" Notre dossier complet contient toutes les informations sur nos formules de partenariat, notre audience et les avantages détaillés.",
+            "downloadButton": "Télécharger le dossier (PDF)",
+            "formSchema":{
+                "companyName": "Le nom de l'entreprise doit contenir au moins 2 caractères",
+                "contactName": "Le nom du contact doit contenir au moins 2 caractères",
+                "email": "Veuillez entrer une adresse email valide",
+                "phone": "Le numéro de téléphone doit contenir au moins 9 chiffres",
+                "position": "La fonction doit contenir au moins 2 caractères",
+                "package": "Veuillez sélectionner une formule",
+                "message10": "Le message doit contenir au moins 10 caractères",
+                "message500": "Le message ne doit pas dépasser 500 caractères",
+                "consent": "Vous devez accepter la politique de confidentialité"
+            },
+            "formuleLabels":{
+                "supporter": "Formule Supporter - 650€/an",
+                "champion": "Formule Champion - 1.650€/an",
+                "elite": "Formule Élite - 2.750€/an",
+                "legend": "Formule Légende - 3.450€/an",
+                "custom": "Formule personnalisée"
+            },
+            "form":{
+                "title": "Demande de partenariat",
+                "success":{
+                    "title": "Demande envoyée avec succès !",
+                    "description": "Merci de votre intérêt pour un partenariat avec BEFA Academy. Notre équipe vous contactera dans les plus brefs délais pour discuter des possibilités de partenariat adaptées à vos besoins et objectifs.",
+                    "button": "Envoyer une autre demande"
+                },
+                "companyName": "Nom de l'entreprise",
+                "companyNamePlaceholder": "Votre entreprise",
+                "contactName": "Nom du contact",
+                "contactNamePlaceholder": "Prénom et nom",
+                "email": "Email",
+                "emailPlaceholder": "Votre email",
+                "phone": "Téléphone",
+                "phonePlaceholder": "Votre numéro de téléphone",
+                "position": "Position",
+                "positionPlaceholder": "Votre fonction",
+                "package": "Formule souhaitée",
+                "packagePlaceholder": "Choisissez une formule",
+                "message": "Message",
+                "messagePlaceholder": "Précisez vos attentes, questions ou besoins spécifiques...",
+                "messageMaxLength": "500 caractères",
+                "consent": "J'accepte que mes données soient traitées conformément à la politique de confidentialité",
+                "formuleLabels":{
+                    "supporter": "Supporter - 650€/an",
+                    "champion": "Champion - 1.650€/an",
+                    "elite": "Élite - 2.750€/an",
+                    "legend": "Légende - 3.450€/an",
+                    "custom": "Formule personnalisée"
+                },
+                "button": "Envoyer ma demande",
+                "loading": "Envoi en cours..."
+            }
+        }
+    },
+    "reservationIndividual":{
+        "title1": "Sessions",
+        "title2": "Individuelles",
+        "description": "Progressez rapidement avec un entraînement personnalisé adapté à vos besoins spécifiques",
+        "button": "Découvrir nos formules",
+        "badge": "Personnalisé",
+        "title3": "Entraînement sur mesure",
+        "title4": "Pourquoi choisir une session",
+        "title5": "individuelle",
+        "description2": "Les sessions individuelles offrent une approche personnalisée qui permet de progresser plus rapidement. Nos entraîneurs qualifiés adaptent chaque exercice à vos besoins spécifiques pour maximiser votre développement technique et tactique.",
+        "attention": "Attention personnalisée",
+        "attentionDescription": "100% de l'attention de l'entraîneur est concentrée sur votre progression",
+        "progression": "Progression accélérée",
+        "progressionDescription": "Développez vos compétences jusqu'à 3 fois plus vite qu'en entraînement collectif",
+        "objectifs": "Objectifs ciblés",
+        "objectifsDescription": "Travaillez spécifiquement sur les aspects que vous souhaitez améliorer",
+        "flexibility": "Flexibilité horaire",
+        "flexibilityDescription": "Choisissez le jour et l'heure qui vous conviennent le mieux",
+        "formules":{
+            "title": "Nos formules de",
+            "title2": "sessions",
+            "description": "Nous proposons différentes formules adaptées à tous les niveaux et objectifs. Choisissez celle qui correspond le mieux à vos besoins.",
+            "technique":{
+                "title": "Technique Individuelle",
+                "description": "Perfectionnement technique",
+                "session": "session",
+                "items":{
+                    "item1": "Travail des gestes techniques",
+                    "item2": "Contrôles et passes",
+                    "item3": "Dribbles et feintes",
+                    "item4": "Frappes et finitions"
+                },
+                "button": "Réserver cette session"
+            },
+            "tactique":{
+                "badge": "Populaire",
+                "title": "Tactique de Jeu",
+                "description": "Vision et intelligence de jeu",
+                "session": "session",
+                "items":{
+                    "item1": "Lecture du jeu",
+                    "item2": "Positionnement",
+                    "item3": "Prise de décision",
+                    "item4": "Analyse vidéo personnalisée",
+                    "item5": "Situations de match"
+                },
+                "button": "Réserver cette session"
+            },
+            "physique":{
+                "title": "Préparation Physique",
+                "description": "Condition et performance",
+                "session": "session",
+                "items":{
+                    "item1": "Vitesse et accélération",
+                    "item2": "Endurance spécifique",
+                    "item3": "Force et puissance",
+                    "item4": "Agilité et coordination",
+                    "item5": "Programme personnalisé"
+                },
+                "button": "Réserver cette session"
+            },
+            "custom":{
+                "description": "Vous avez des besoins spécifiques ? Nous pouvons créer une session sur mesure pour vous.",
+                "button": "Demander une session personnalisée"
+            },
+            "duration":{
+                "title": "Choisissez votre",
+                "title2": "durée",
+                "description": "Adaptez la durée de votre session en fonction de vos objectifs et de votre disponibilité",
+                "60": "60 minutes",
+                "90": "90 minutes",
+                "120": "120 minutes",
+                "standard": "Prix standard",
+                "sessionStandard": "Session standard",
+                "plus40": "+40%",
+                "sessionApprofondie": "Session approfondie",
+                "plus80": "+80%",
+                "sessionIntensive": "Session intensive",
+                "button": "Voir toutes nos formules"
+            }
+
+        },
+        "form":{
+            "title": "Réservez votre",
+            "title2": "session",
+            "description": "Complétez le formulaire ci-contre pour réserver votre session individuelle. Notre équipe vous contactera dans les plus brefs délais pour confirmer votre réservation.",
+            "availability": "Disponibilités",
+            "availabilityDescription": "Lundi au Vendredi: 16h - 20h",
+            "availabilityDescription2": "Samedi: 9h - 17h",
+            "direct": "Contact direct",
+            "directDescription": "Responsable des sessions individuelles",
+            "important": "Informations importantes",
+            "importantDescription": "Arrivez 15 minutes avant le début de votre session",
+            "importantDescription2": "Apportez votre équipement complet (chaussures, protège-tibias, etc.)",
+            "importantDescription3": "Annulation gratuite jusqu'à 24h avant la session",
+            "download": "Télécharger le guide des sessions",
+            "sessionTypes":{
+                "technique": "Technique Individuelle",
+                "tactique": "Tactique de Jeu",
+                "physique": "Préparation Physique",
+                "gardien": "Entraînement Gardien"
+            },
+            "durations":{
+                "60": "60 minutes",
+                "90": "90 minutes",
+                "120": "120 minutes"
+            },
+            "form":{
+                "title": "Formulaire de réservation",
+                "subtitle": "1. Choisissez votre session",
+                "sessionType": "Type de session",
+                "duration": "Durée de la session",
+                "subtitle2": "2. Vos informations",
+                "date": "Date souhaitée",
+                "datePlaceholder": "Sélectionnez une date",
+                "time": "Heure souhaitée",
+                "timePlaceholder": "Sélectionnez une heure",
+                "firstName": "Prénom",
+                "firstNamePlaceholder": "Votre prénom",
+                "lastName": "Nom",
+                "lastNamePlaceholder": "Votre nom",
+                "email": "Email",
+                "emailPlaceholder": "Votre email",
+                "phone": "Téléphone",
+                "phonePlaceholder": "Votre numéro de téléphone",
+                "age": "Âge",
+                "agePlaceholder": "Votre âge",
+                "level": "Niveau",
+                "levelPlaceholder": "Sélectionnez votre niveau",
+                "levels":{
+                    "debutant": "Débutant",
+                    "intermediaire": "Intermédiaire",
+                    "avance": "Avancé",
+                    "professionnel": "Professionnel"
+                },
+                "objectives": "Objectifs spécifiques",
+                "objectivesPlaceholder": "Décrivez vos objectifs ou besoins spécifiques pour cette session",
+                "total": "Total estimé",
+                "payment": "Le paiement s'effectuera sur place avant la session",
+                "button": "Réserver ma session",
+                "loading": "Envoi en cours...",
+                "success":{
+                    "title": "Demande envoyée avec succès !",
+                    "subtitle": "Nous avons bien reçu votre demande de réservation pour une session",
+                    "subtitle2": "de",
+                    "description": " Notre équipe vous contactera dans les plus brefs délais pour confirmer votre réservation.",
+                    "button": "Réserver une autre session",
+                    "cancel": "Vous pouvez annuler ou modifier votre réservation jusqu'à 24h avant la session"
+                }
+            }
+        }
+    }
+}

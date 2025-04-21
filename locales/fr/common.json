@@ -1,0 +1,778 @@
+{
+  "home": {
+    "hero": {
+      "title": "Academy - Développez votre potentiel football",
+      "description": "École de football spécialisée proposant des programmes d'entraînement innovants pour jeunes footballeurs de tous niveaux.",
+      "button": "Voir nos activités",
+      "more": "En savoir plus"
+    },
+    "partnership": "En partenariat avec",
+    "approach": {
+      "title": "Notre Approche",
+      "subtitle": "Une formation complète et personnalisée",
+      "description": "Nous proposons une approche intégrée qui combine technique, tactique et préparation mentale pour développer des joueurs complets.",
+      "technique": {
+        "tite": "Technique individuelle",
+        "description": "Perfectionnement des gestes techniques fondamentaux et spécifiques au poste."
+      },
+      "tactics": {
+        "title": "Intelligence tactique",
+        "description": "Développement de la compréhension du jeu et de la prise de décision."
+      },
+      "mental": {
+        "title": "Préparation mentale",
+        "description": "Renforcement de la confiance, concentration et résilience sous pression."
+      }
+    },
+    "activities": {
+      "title": "Nos Activités",
+      "subtitle": "Programmes adaptés à tous les niveaux",
+      "description": "Découvrez nos différentes formules d'entraînement, stages et programmes personnalisés.",
+      "button": "Toutes nos activités",
+      "learnMore": "En savoir plus",
+      "hero": {
+        "title1": "Nos",
+        "title2": "Activités",
+        "description": "Découvrez l'ensemble des activités proposées par BEFA Academy pour développer les compétences footballistiques de votre enfant."
+      },
+      "regular": "Programme Régulier",
+      "period": "Période",
+      "frequency": "Fréquence",
+      "sessionsPerWeek": "sessions par semaine",
+      "duration": "Durée",
+      "minutesPerSession": "minutes par session",
+      "age": "Âge",
+      "allAges": "Tous âges",
+      "viewDetails": "Voir l'activité en détail",
+      "individual": {
+        "button": "Réserver une séance",
+        "badge": "Personnalisé",
+        "title": "Cours Individuels",
+        "title1": "Personnalisez",
+        "title2": "votre développement",
+        "description": "Nos cours individuels offrent une attention personnalisée pour travailler sur des aspects spécifiques du jeu. Idéal pour corriger des points faibles ou développer des compétences particulières avec un feedback immédiat et personnalisé.",
+        "scheduling": "Planification",
+        "appointmentBased": "Sur rendez-vous",
+        "duration": "Durée",
+        "hourPerSession": "1h par session",
+        "format": "Format",
+        "formatDescription": "1-on-1 ou petit groupe (2-3)",
+        "analysis": "Analyse",
+        "analysisDescription": "Vidéo et feedback détaillé",
+        "bookSession": "Réserver une session"
+      },
+      "cta": {
+        "title": "Prêt à rejoindre l'une de nos activités?",
+        "description": "Contactez-nous pour obtenir plus d'informations ou pour vous inscrire à l'une de nos activités.",
+        "button": "Nous contacter"
+      },
+      "aboutActivity": "À propos de cette activité",
+      "groupsSchedules": "Groupes & Horaires",
+      "sessionDates": "Dates des sessions",
+      "practicalInfo": "Informations pratiques",
+      "location": "Lieu",
+      "sessionPackages": "Packages de sessions",
+      "perSession": "par session",
+      "choosePackage": "Choisir un package",
+      "features": "Caractéristiques",
+      "registerActivity": "S'inscrire à cette activité",
+      "needInfo": "Besoin de plus d'informations ?",
+      "contactUs": "N'hésitez pas à nous contacter pour toute question concernant cette activité.",
+      "contactButton": "Nous contacter",
+      "otherActivities": "Autres activités qui pourraient vous intéresser",
+      "noOtherActivities": "Aucune autre activité disponible pour le moment.",
+      "viewAll": "Voir toutes nos activités",
+      "popular": "Populaire"
+    },
+    "testimonials": {
+      "title": "Témoignages",
+      "subtitle": "Ce que disent nos joueurs",
+      "description": "Découvrez les expériences de nos joueurs et parents qui ont participé à nos programmes."
+    },
+    "partners": {
+      "title": "Nos Partenaires",
+      "subtitle": "Ils nous font confiance",
+      "description": "BEFA Academy collabore avec des partenaires de qualité pour offrir la meilleure expérience possible.",
+      "cta": "Vous souhaitez devenir partenaire et soutenir notre académie ?",
+      "button": "Devenir partenaire"
+    },
+    "cta": {
+      "title": "Prêt à rejoindre BEFA Academy ?",
+      "description": "Inscrivez-vous à l'une de nos activités et commencez votre progression.",
+      "button": "S'inscrire maintenant"
+    }
+  },
+  "individual": {
+    "title": "Entraînement individuel",
+    "description": "Séances personnalisées pour répondre à vos besoins spécifiques"
+  },
+  "sponsoring": {
+    "title1": "Devenir",
+    "title2": "Partenaire",
+    "subtitle": "Soutenez le développement des jeunes talents et associez votre image à des valeurs positives",
+    "button": "Découvrir nos formules",
+    "story": {
+      "title": "Notre",
+      "title2": "Histoire",
+      "subtitle": "L'Académie de Football de Grimbergen",
+      "description": "La première académie de football de Grimbergen a été créée pour aider les talents locaux à se développer et progresser davantage. Nous offrons un encadrement de qualité avec des entraîneurs formés et expérimentés, ainsi que des infrastructures modernes, afin de permettre à chaque joueur de maximiser son potentiel.",
+      "description2": "Notre mission : former les champions de demain, tout en restant proches de notre communauté locale.",
+      "values": {
+        "title": "Mission et Valeurs",
+        "subtitle": "Écoute et Bienveillance",
+        "description": "Chaque joueur est soutenu, écouté et encouragé à se dépasser, quels que soient ses objectifs",
+        "subtitle2": "Professionnalisme et Qualité",
+        "description2": "Nos coachs, formés et passionnés, offrent un encadrement de haut niveau",
+        "subtitle3": "Respect",
+        "description3": "Intégrité, fair-play et solidarité sont au centre de chaque entraînement"
+      }
+    },
+    "formules": {
+      "title1": "Nos Formules de",
+      "title2": "partenariat",
+      "description": "Nous proposons différentes formules adaptées à tous les budgets et objectifs. Choisissez celle qui correspond le mieux à vos besoins.",
+      "supporter": {
+        "title": "Supporter",
+        "description": "Partenaire de base",
+        "year": "an",
+        "items": {
+          "item1": "Publicité sur le site web de l'académie",
+          "item2": "Mention sur les réseaux sociaux de l'académie (post remerciement avec votre logo)",
+          "button": "Choisir cette formule"
+        }
+      },
+      "champion": {
+        "title": "Champion",
+        "description": "Partenaire intermédiaire",
+        "year": "an",
+        "items": {
+          "item1": "Publicité sur le site web de l'académie",
+          "item2": "Logo sponsor sur les shorts ou manche*",
+          "item3": "Publication sur les réseaux sociaux (1 post/an avec votre logo)",
+          "button": "Choisir cette formule"
+        }
+      },
+      "elite": {
+        "badge": "Populaire",
+        "title": "Élite",
+        "description": "Partenaire privilégié",
+        "year": "an",
+        "items": {
+          "item1": "Publicité sur le site web de l'académie",
+          "item2": "Logo sponsor sur les shorts ou manche*",
+          "item3": "Présence sur nos supports de communication (affiches, flyers,...)",
+          "item4": "Publicité régulière sur les réseaux sociaux (2 posts par an)",
+          "button": "Choisir cette formule"
+        }
+      },
+      "legend": {
+        "title": "Légende",
+        "description": "Partenaire principal",
+        "year": "an",
+        "items": {
+          "item1": "Publicité sur le site web de l'académie",
+          "item2": "Présence premium sur notre site",
+          "item3": "Logo sur le maillot",
+          "item4": "Avant, arrière ou équipement du staff*",
+          "items5": "Présence sur toutes nos communications",
+          "item6": "Email, flyers, brochures",
+          "item7": "Publicité sur les réseaux sociaux",
+          "item8": "4 posts par an",
+          "item9": "Visibilité lors des événements",
+          "item10": "Bannières et annonces",
+          "item11": "Accès VIP",
+          "item12": "Aux événements et matchs"
+        }
+      },
+      "info": "*L'emplacement de votre logo sur nos équipements dépend des disponibilités.",
+      "contact": "Contactez-nous pour tout autre demande comme le sponsoring d'évènements, de ballons ou d'équipements spécifiques.",
+      "button": "Demander une offre personnalisée"
+    },
+    "partners": {
+      "title1": "Nos",
+      "title2": "Partenaires",
+      "description": "Découvrez les entreprises qui nous font confiance et soutiennent notre académie.",
+      "button": "Voir tous nos partenaires"
+    },
+    "testimonials": {
+      "title1": "Ce que disent nos",
+      "title2": "partenaires",
+      "description": "Découvrez les témoignages de nos sponsors actuels et leur expérience avec BEFA Academy.",
+      "testimonials": {
+        "moupress": {
+          "status": "Directeur Marketing",
+          "description": "Notre partenariat avec BEFA Academy nous a permis d'accroître notre visibilité locale et de nous associer à des valeurs positives. Un excellent retour sur investissement."
+        },
+        "karbill": {
+          "status": "Responsable RSE",
+          "description": "Nous sommes fiers de soutenir le développement des jeunes talents. Notre partenariat avec BEFA Academy s'inscrit parfaitement dans notre politique RSE."
+        }
+      }
+    },
+    "form": {
+      "title1": "Intéressé par un",
+      "title2": "partenariat",
+      "description": "Complétez le formulaire ci-contre et notre équipe vous contactera dans les plus brefs délais pour discuter des possibilités de partenariat adaptées à vos besoins et objectifs.",
+      "direct": "Contact direct",
+      "website": "Site web",
+      "download": "Téléchargez notre dossier de sponsoring",
+      "downloadText": "Notre dossier complet contient toutes les informations sur nos formules de partenariat, notre audience et les avantages détaillés.",
+      "downloadButton": "Télécharger le dossier (PDF)",
+      "formSchema": {
+        "companyName": "Le nom de l'entreprise doit contenir au moins 2 caractères",
+        "contactName": "Le nom du contact doit contenir au moins 2 caractères",
+        "email": "Veuillez entrer une adresse email valide",
+        "phone": "Le numéro de téléphone doit contenir au moins 9 chiffres",
+        "position": "La fonction doit contenir au moins 2 caractères",
+        "package": "Veuillez sélectionner une formule",
+        "message10": "Le message doit contenir au moins 10 caractères",
+        "message500": "Le message ne doit pas dépasser 500 caractères",
+        "consent": "Vous devez accepter la politique de confidentialité",
+        "budget": "Veuillez indiquer votre budget"
+      },
+      "formuleLabels": {
+        "supporter": "Formule Supporter - 650€/an",
+        "champion": "Formule Champion - 1.650€/an",
+        "elite": "Formule Élite - 2.750€/an",
+        "legend": "Formule Légende - 3.450€/an",
+        "custom": "Formule personnalisée"
+      },
+      "form": {
+        "title": "Demande de partenariat",
+        "success": {
+          "title": "Demande envoyée avec succès !",
+          "description": "Merci de votre intérêt pour un partenariat avec BEFA Academy. Notre équipe vous contactera dans les plus brefs délais pour discuter des possibilités de partenariat adaptées à vos besoins et objectifs.",
+          "button": "Envoyer une autre demande"
+        },
+        "companyName": "Nom de l'entreprise",
+        "companyNamePlaceholder": "Votre entreprise",
+        "contactName": "Nom du contact",
+        "contactNamePlaceholder": "Prénom et nom",
+        "email": "Email",
+        "emailPlaceholder": "Votre email",
+        "phone": "Téléphone",
+        "phonePlaceholder": "Votre numéro de téléphone",
+        "position": "Position",
+        "positionPlaceholder": "Votre fonction",
+        "package": "Formule souhaitée",
+        "packagePlaceholder": "Choisissez une formule",
+        "message": "Message",
+        "messagePlaceholder": "Précisez vos attentes, questions ou besoins spécifiques...",
+        "messageMaxLength": "500 caractères",
+        "budget": "Budget",
+        "budgetPlaceholder": "Indiquez votre budget approximatif",
+        "consent": "J'accepte que mes données soient traitées conformément à la politique de confidentialité",
+        "formuleLabels": {
+          "supporter": "Supporter - 650€/an",
+          "champion": "Champion - 1.650€/an",
+          "elite": "Élite - 2.750€/an",
+          "legend": "Légende - 3.450€/an",
+          "custom": "Formule personnalisée"
+        },
+        "submit": "Envoyer ma demande",
+        "loading": "Envoi en cours..."
+      },
+      "error": {
+        "title": "Erreur",
+        "description": "Une erreur est survenue lors de l'envoi de votre demande.",
+        "retry": "Réessayer"
+      }
+    }
+  },
+  "header": {
+    "home": "Accueil",
+    "activities": "Activités",
+    "sponsoring": "Sponsoring",
+    "gallery": "Galerie",
+    "contact": "Contact",
+    "register": "S'inscrire"
+  },
+  "footer": {
+    "description": "BEFA Academy propose des programmes d'entraînement innovants pour développer tout le potentiel des jeunes footballeurs.",
+    "quickLinks": "Liens rapides",
+    "titleLang": "titleFr",
+    "partnership": "En partenariat avec KSC Grimbergen",
+    "copyright": "Tous droits réservés",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfUse": "Conditions d'utilisation",
+    "cookies": "Cookies"
+  },
+  "contact": {
+    "hero": {
+      "title": "Contactez",
+      "description": "Une question, une demande d'information ou d'inscription ? Nous sommes à votre écoute."
+    },
+    "info": {
+      "title": "Nos coordonnées",
+      "description": "N'hésitez pas à nous contacter directement ou à utiliser le formulaire ci-contre pour toute demande."
+    },
+    "phone": {
+      "title": "Téléphone",
+      "hours": "Du lundi au vendredi, 9h-17h"
+    },
+    "email": {
+      "title": "Email",
+      "response": "Nous répondons sous 24-48h"
+    },
+    "address": {
+      "title": "Adresse"
+    },
+    "map": {
+      "title": "Nous trouver"
+    },
+    "form": {
+      "title": "Formulaire de contact",
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email",
+      "phone": "Téléphone (optionnel)",
+      "subject": "Sujet",
+      "message": "Message",
+      "consent": "J'accepte que mes données soient traitées conformément à la",
+      "privacyPolicy": "politique de confidentialité",
+      "submit": "Envoyer le message",
+      "submitting": "Envoi en cours...",
+      "placeholders": {
+        "firstName": "Votre prénom",
+        "lastName": "Votre nom",
+        "email": "votre.email@exemple.com",
+        "phone": "+32 473 99 91 70",
+        "subject": "Sélectionnez un sujet",
+        "message": "Votre message..."
+      },
+      "subjectOptions": {
+        "information": "Demande d'information",
+        "registration": "Inscription",
+        "partnership": "Partenariat",
+        "other": "Autre"
+      },
+      "validation": {
+        "firstName": "Le prénom doit contenir au moins 2 caractères",
+        "lastName": "Le nom doit contenir au moins 2 caractères",
+        "email": "Veuillez entrer une adresse email valide",
+        "phone": "Le numéro de téléphone doit contenir au moins 9 chiffres",
+        "subject": "Veuillez sélectionner un sujet",
+        "messageMin": "Le message doit contenir au moins 10 caractères",
+        "messageMax": "Le message ne doit pas dépasser 500 caractères",
+        "consent": "Vous devez accepter la politique de confidentialité"
+      },
+      "success": {
+        "title": "Message envoyé !",
+        "description": "Nous vous répondrons dans les plus brefs délais."
+      },
+      "error": {
+        "title": "Erreur",
+        "description": "Une erreur est survenue lors de l'envoi du message.",
+        "retry": "Réessayer"
+      },
+      "successMessage": {
+        "title": "Message envoyé avec succès !",
+        "description": "Merci de nous avoir contactés. Nous vous répondrons dans les plus brefs délais.",
+        "button": "Envoyer un autre message"
+      }
+    }
+  },
+  "reservationIndividual":{
+    "title1": "Sessions",
+    "title2": "Individuelles",
+    "description": "Progressez rapidement avec un entraînement personnalisé adapté à vos besoins spécifiques",
+    "button": "Découvrir nos formules",
+    "badge": "Personnalisé",
+    "title3": "Entraînement sur mesure",
+    "title4": "Pourquoi choisir une session",
+    "title5": "individuelle",
+    "description2": "Les sessions individuelles offrent une approche personnalisée qui permet de progresser plus rapidement. Nos entraîneurs qualifiés adaptent chaque exercice à vos besoins spécifiques pour maximiser votre développement technique et tactique.",
+    "attention": "Attention personnalisée",
+    "attentionDescription": "100% de l'attention de l'entraîneur est concentrée sur votre progression",
+    "progression": "Progression accélérée",
+    "progressionDescription": "Développez vos compétences jusqu'à 3 fois plus vite qu'en entraînement collectif",
+    "objectifs": "Objectifs ciblés",
+    "objectifsDescription": "Travaillez spécifiquement sur les aspects que vous souhaitez améliorer",
+    "flexibility": "Flexibilité horaire",
+    "flexibilityDescription": "Choisissez le jour et l'heure qui vous conviennent le mieux",
+    "formules":{
+        "title": "Nos formules de",
+        "title2": "sessions",
+        "description": "Nous proposons différentes formules adaptées à tous les niveaux et objectifs. Choisissez celle qui correspond le mieux à vos besoins.",
+        "technique":{
+            "title": "Technique Individuelle",
+            "description": "Perfectionnement technique",
+            "session": "session",
+            "items":{
+                "item1": "Travail des gestes techniques",
+                "item2": "Contrôles et passes",
+                "item3": "Dribbles et feintes",
+                "item4": "Frappes et finitions"
+            },
+            "button": "Réserver cette session"
+        },
+        "tactique":{
+            "badge": "Populaire",
+            "title": "Tactique de Jeu",
+            "description": "Vision et intelligence de jeu",
+            "session": "session",
+            "items":{
+                "item1": "Lecture du jeu",
+                "item2": "Positionnement",
+                "item3": "Prise de décision",
+                "item4": "Analyse vidéo personnalisée",
+                "item5": "Situations de match"
+            },
+            "button": "Réserver cette session"
+        },
+        "physique":{
+            "title": "Préparation Physique",
+            "description": "Condition et performance",
+            "session": "session",
+            "items":{
+                "item1": "Vitesse et accélération",
+                "item2": "Endurance spécifique",
+                "item3": "Force et puissance",
+                "item4": "Agilité et coordination",
+                "item5": "Programme personnalisé"
+            },
+            "button": "Réserver cette session"
+        },
+        "custom":{
+            "description": "Vous avez des besoins spécifiques ? Nous pouvons créer une session sur mesure pour vous.",
+            "button": "Demander une session personnalisée"
+        },
+        "duration":{
+            "title": "Choisissez votre",
+            "title2": "durée",
+            "description": "Adaptez la durée de votre session en fonction de vos objectifs et de votre disponibilité",
+            "60": "60 minutes",
+            "90": "90 minutes",
+            "120": "120 minutes",
+            "standard": "Prix standard",
+            "sessionStandard": "Session standard",
+            "plus40": "+40%",
+            "sessionApprofondie": "Session approfondie",
+            "plus80": "+80%",
+            "sessionIntensive": "Session intensive",
+            "button": "Voir toutes nos formules"
+        }
+
+    },
+    "form":{
+        "title": "Réservez votre",
+        "title2": "session",
+        "description": "Complétez le formulaire ci-contre pour réserver votre session individuelle. Notre équipe vous contactera dans les plus brefs délais pour confirmer votre réservation.",
+        "availability": "Disponibilités",
+        "availabilityDescription": "Lundi au Vendredi: 16h - 20h",
+        "availabilityDescription2": "Samedi: 9h - 17h",
+        "direct": "Contact direct",
+        "directDescription": "Responsable des sessions individuelles",
+        "important": "Informations importantes",
+        "importantDescription": "Arrivez 15 minutes avant le début de votre session",
+        "importantDescription2": "Apportez votre équipement complet (chaussures, protège-tibias, etc.)",
+        "importantDescription3": "Annulation gratuite jusqu'à 24h avant la session",
+        "download": "Télécharger le guide des sessions",
+        "sessionTypes":{
+            "technique": "Technique Individuelle",
+            "tactique": "Tactique de Jeu",
+            "physique": "Préparation Physique",
+            "gardien": "Entraînement Gardien"
+        },
+        "durations":{
+            "60": "60 minutes",
+            "90": "90 minutes",
+            "120": "120 minutes"
+        },
+        "form":{
+            "title": "Formulaire de réservation",
+            "subtitle": "1. Choisissez votre session",
+            "sessionType": "Type de session",
+            "duration": "Durée de la session",
+            "subtitle2": "2. Vos informations",
+            "date": "Date souhaitée",
+            "datePlaceholder": "Sélectionnez une date",
+            "time": "Heure souhaitée",
+            "timePlaceholder": "Sélectionnez une heure",
+            "firstName": "Prénom",
+            "firstNamePlaceholder": "Votre prénom",
+            "lastName": "Nom",
+            "lastNamePlaceholder": "Votre nom",
+            "email": "Email",
+            "emailPlaceholder": "Votre email",
+            "phone": "Téléphone",
+            "phonePlaceholder": "Votre numéro de téléphone",
+            "age": "Âge",
+            "agePlaceholder": "Votre âge",
+            "level": "Niveau",
+            "levelPlaceholder": "Sélectionnez votre niveau",
+            "levels":{
+                "debutant": "Débutant",
+                "intermediaire": "Intermédiaire",
+                "avance": "Avancé",
+                "professionnel": "Professionnel"
+            },
+            "objectives": "Objectifs spécifiques",
+            "objectivesPlaceholder": "Décrivez vos objectifs ou besoins spécifiques pour cette session",
+            "total": "Total estimé",
+            "payment": "Le paiement s'effectuera sur place avant la session",
+            "button": "Réserver ma session",
+            "loading": "Envoi en cours...",
+            "success":{
+                "title": "Demande envoyée avec succès !",
+                "subtitle": "Nous avons bien reçu votre demande de réservation pour une session",
+                "subtitle2": "de",
+                "description": " Notre équipe vous contactera dans les plus brefs délais pour confirmer votre réservation.",
+                "button": "Réserver une autre session",
+                "cancel": "Vous pouvez annuler ou modifier votre réservation jusqu'à 24h avant la session"
+            }
+        }
+    }
+  },
+  "activities": {
+    "title": "Nos Activités",
+    "subtitle": "Programmes adaptés à tous les niveaux",
+    "description": "Découvrez nos différentes formules d'entraînement, stages et programmes personnalisés.",
+    "button": "Toutes nos activités",
+    "learnMore": "En savoir plus",
+    "hero": {
+      "title1": "Nos",
+      "title2": "Activités",
+      "description": "Découvrez l'ensemble des activités proposées par BEFA Academy pour développer les compétences footballistiques de votre enfant."
+    },
+    "regular": "Programme Régulier",
+    "period": "Période",
+    "frequency": "Fréquence",
+    "sessionsPerWeek": "sessions par semaine",
+    "duration": "Durée",
+    "minutesPerSession": "minutes par session",
+    "age": "Âge",
+    "allAges": "Tous âges",
+    "viewDetails": "Voir l'activité en détail",
+    "individual": {
+      "button": "Réserver une séance",
+      "badge": "Personnalisé",
+      "title": "Cours Individuels",
+      "title1": "Personnalisez",
+      "title2": "votre développement",
+      "description": "Nos cours individuels offrent une attention personnalisée pour travailler sur des aspects spécifiques du jeu. Idéal pour corriger des points faibles ou développer des compétences particulières avec un feedback immédiat et personnalisé.",
+      "scheduling": "Planification",
+      "appointmentBased": "Sur rendez-vous",
+      "duration": "Durée",
+      "hourPerSession": "1h par session",
+      "format": "Format",
+      "formatDescription": "1-on-1 ou petit groupe (2-3)",
+      "analysis": "Analyse",
+      "analysisDescription": "Vidéo et feedback détaillé",
+      "bookSession": "Réserver une session"
+    },
+    "cta": {
+      "title": "Prêt à rejoindre l'une de nos activités?",
+      "description": "Contactez-nous pour obtenir plus d'informations ou pour vous inscrire à l'une de nos activités.",
+      "button": "Nous contacter"
+    },
+    "aboutActivity": "À propos de cette activité",
+    "groupsSchedules": "Groupes & Horaires",
+    "sessionDates": "Dates des sessions",
+    "practicalInfo": "Informations pratiques",
+    "location": "Lieu",
+    "sessionPackages": "Packages de sessions",
+    "perSession": "par session",
+    "choosePackage": "Choisir un package",
+    "features": "Caractéristiques",
+    "registerActivity": "S'inscrire à cette activité",
+    "needInfo": "Besoin de plus d'informations ?",
+    "contactUs": "N'hésitez pas à nous contacter pour toute question concernant cette activité.",
+    "contactButton": "Nous contacter",
+    "otherActivities": "Autres activités qui pourraient vous intéresser",
+    "noOtherActivities": "Aucune autre activité disponible pour le moment.",
+    "viewAll": "Voir toutes nos activités",
+    "popular": "Populaire"
+  },
+  "gallery": {
+    "hero": {
+      "title1": "Notre",
+      "title2": "Galerie",
+      "description": "Découvrez en images les activités et moments forts de BEFA Academy"
+    },
+    "filters": {
+      "all": "Toutes les photos"
+    },
+    "loading": "Chargement des images...",
+    "cta": {
+      "title": "Rejoignez l'aventure BEFA Academy",
+      "description": "Découvrez nos activités et inscrivez-vous dès maintenant",
+      "activities": "Voir nos activités",
+      "contact": "Nous contacter"
+    }
+  },
+  
+    "inscription": {
+      "title": "Inscription",
+      "academy": "BEFA Academy",
+      "subtitle": "Inscrivez-vous à l'activité",
+      "chooseActivity": "Choisissez une activité pour vous inscrire",
+      "loading": "Chargement de l'activité...",
+      "steps": {
+        "step1": "Étape 1: Informations",
+        "step2": "Étape 2: Paiement"
+      },
+      "sections": {
+        "activity": {
+          "title": "Activité sélectionnée",
+          "selectPrompt": "Veuillez sélectionner une activité pour continuer.",
+          "chooseLabel": "Choisissez une activité",
+          "selectPlaceholder": "Sélectionner une activité",
+          "startingFrom": "À partir de",
+          "packageLabel": "Package de sessions",
+          "packagePlaceholder": "Sélectionnez un package",
+          "pricePerSession": "€/session",
+          "groupLabel": "Groupe",
+          "groupPlaceholder": "Sélectionnez un groupe"
+        },
+        "player": {
+          "title": "Informations sur le joueur",
+          "firstName": "Prénom",
+          "firstNamePlaceholder": "Prénom du joueur",
+          "lastName": "Nom",
+          "lastNamePlaceholder": "Nom du joueur",
+          "birthDate": "Date de naissance",
+          "club": "Club",
+          "clubPlaceholder": "Nom du club"
+        },
+        "parent": {
+          "title": "Informations sur le parent/tuteur",
+          "email": "Email",
+          "emailPlaceholder": "votre.email@exemple.com",
+          "phone": "Téléphone",
+          "phonePlaceholder": "+32 473 99 91 70",
+          "secondaryPhone": "Téléphone secondaire"
+        },
+        "address": {
+          "title": "Adresse",
+          "street": "Rue et numéro",
+          "streetPlaceholder": "Rue et numéro",
+          "postalCode": "Code postal",
+          "postalCodePlaceholder": "Code postal",
+          "city": "Ville",
+          "cityPlaceholder": "Ville"
+        },
+        "medical": {
+          "title": "Informations médicales",
+          "info": "Informations médicales importantes (allergies, médicaments, etc.)",
+          "placeholder": "Veuillez indiquer toute information médicale importante dont les entraîneurs devraient être informés.",
+          "confidentiality": "Ces informations resteront confidentielles."
+        },
+        "equipment": {
+          "title": "Équipement",
+          "include": "Ajouter l'équipement officiel de BEFA Academy",
+          "included": "Inclus",
+          "description": "Inclut un t-shirt et un short aux couleurs de l'académie",
+          "tshirtSize": "Taille du t-shirt",
+          "tshirtPlaceholder": "Sélectionnez une taille",
+          "shortSize": "Taille du short",
+          "shortPlaceholder": "Sélectionnez une taille"
+        },
+        "promo": {
+          "title": "Code promo",
+          "placeholder": "Entrez votre code promo",
+          "apply": "Appliquer",
+          "applied": "Code promo appliqué ! Réduction de",
+          "invalid": "Code promo invalide",
+          "invalidMessage": "Le code promo saisi n'existe pas.",
+          "notYetValid": "Code promo pas encore valide",
+          "notYetValidMessage": "Ce code promo n'est pas encore valide.",
+          "expired": "Code promo expiré",
+          "expiredMessage": "Ce code promo a expiré.",
+          "exhausted": "Code promo épuisé",
+          "exhaustedMessage": "Ce code promo a atteint sa limite d'utilisation.",
+          "notApplicable": "Code promo non applicable",
+          "notApplicableMessage": "Ce code promo n'est pas applicable à cette activité.",
+          "personal": "Code promo personnel",
+          "personalMessage": "Ce code promo est réservé à un autre joueur.",
+          "error": "Erreur",
+          "errorMessage": "Une erreur s'est produite lors de la vérification du code promo."
+        },
+        "payment": {
+          "title": "Méthode de paiement",
+          "online": "Paiement en ligne",
+          "redirect": "Vous serez redirigé vers la page de paiement pour effectuer le paiement."
+        },
+        "consent": {
+          "title": "Consentements",
+          "terms": "J'accepte les",
+          "termsLink": "conditions générales",
+          "and": "et la",
+          "privacyLink": "politique de confidentialité",
+          "photo": "J'autorise BEFA Academy à utiliser des photos et vidéos de mon enfant prises lors des activités pour la communication de l'académie (site web, réseaux sociaux, brochures, etc.).",
+          "photoOptional": "Ce consentement est optionnel et peut être retiré à tout moment."
+        },
+        "summary": {
+          "title": "Résumé de votre commande",
+          "group": "Groupe",
+          "equipment": "Équipement",
+          "equipmentDescription": "T-shirt et short officiels",
+          "discount": "Réduction",
+          "promoApplied": "Code promo appliqué",
+          "total": "Total"
+        }
+      },
+      "buttons": {
+        "continue": "Continuer vers le paiement",
+        "back": "Retour",
+        "payment": "Procéder au paiement",
+        "confirm": "Confirmer l'inscription",
+        "processing": "Traitement en cours..."
+      },
+      "errors": {
+        "activityMissing": "Activité manquante",
+        "activityMissingMessage": "Veuillez sélectionner une activité avant de continuer.",
+        "incompleteForm": "Formulaire incomplet",
+        "incompleteFormMessage": "Veuillez remplir tous les champs obligatoires avant de continuer.",
+        "registrationError": "Erreur d'inscription",
+        "registrationErrorMessage": "Une erreur s'est produite lors de l'inscription. Veuillez réessayer.",
+        "loadingError": "Erreur de chargement",
+        "loadingErrorMessage": "Impossible de charger les données de l'activité"
+      },
+      "success": {
+        "title": "Inscription réussie !",
+        "message": "Votre demande d'inscription a été envoyée avec succès. Vous recevrez prochainement un email de confirmation avec les détails de paiement et les prochaines étapes.",
+        "contact": "Si vous avez des questions, n'hésitez pas à nous contacter par email à",
+        "email": "info@befa-academy.be",
+        "or": "ou par téléphone au",
+        "phone": "+32 473 99 91 70",
+        "homeButton": "Retour à l'accueil",
+        "activitiesButton": "Voir toutes les activités"
+      },
+      "payment": {
+        "title": "Finalisation de votre inscription",
+        "subtitle": "Complétez votre inscription en suivant les instructions ci-dessous"
+      },
+      "form": {
+        "step1Title": "Informations d'inscription",
+        "step1Subtitle": "Veuillez remplir les informations concernant le joueur et l'activité",
+        "step2Title": "Paiement et confirmation",
+        "step2Subtitle": "Finalisez votre inscription en choisissant votre méthode de paiement"
+      },
+      "validation": {
+        "firstNameRequired": "Le prénom doit contenir au moins 2 caractères",
+        "lastNameRequired": "Le nom doit contenir au moins 2 caractères",
+        "birthDateInvalid": "Veuillez entrer une date de naissance valide",
+        "clubRequired": "Veuillez saisir le nom du club",
+        "activityRequired": "Veuillez sélectionner une option",
+        "groupRequired": "Veuillez sélectionner un groupe",
+        "emailInvalid": "Veuillez entrer un email valide",
+        "phoneInvalid": "Le numéro de téléphone doit être valide",
+        "addressRequired": "L'adresse est requise",
+        "postalCodeInvalid": "Le code postal doit être valide",
+        "cityRequired": "La ville est requise"
+      },
+      "sizes": {
+        "6-8": "6-8 ans",
+        "8-10": "8-10 ans",
+        "10-12": "10-12 ans",
+        "12-14": "12-14 ans",
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL"
+      }
+    }
+    
+} 

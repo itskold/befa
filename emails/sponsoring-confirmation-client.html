@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark">
+
+  <title>Confirmation de votre demande de sponsoring - BEFA Academy</title>
+  <style>
+     :root {
+      color-scheme: only light;
+      supported-color-schemes: light;
+    }
+    /* Styles de base */
+    @media (prefers-color-scheme: dark) {
+      body, .container {
+        color-scheme: light;
+        background-color: #232323 !important;
+        color: #f5f5f5 !important;
+      }
+      
+      .logo-dark {
+        display: inline !important;
+      }
+      
+      .logo-light {
+        display: none !important;
+      }
+    }
+
+    @media (prefers-color-scheme: light) {
+      .logo-dark {
+        display: none !important;
+      }
+      
+      .logo-light {
+        display: inline !important;
+      }
+    }
+
+    /* Par défaut (pour les clients qui ne supportent pas prefers-color-scheme) */
+    .logo-dark {
+      display: none;
+    }
+
+    .logo-light {
+      display: inline;
+    }
+    body {
+      font-family: 'Arial', sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 50px;
+    }
+    .container {
+      color: #f5f5f5;
+      background-color: #232323;
+      max-width: 400px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #232323;
+    }
+    .header {
+      text-align: center;
+      padding: 20px 0;
+      border-bottom: 2px solid #f5f301;
+    }
+    .logo {
+      max-width: 150px;
+      height: auto;
+    }
+    .content {
+      padding: 20px 0;
+    }
+    h1, h2, h3 {
+      color: #ffffff;
+    }
+    .highlight {
+      color: #f5f301;
+      font-weight: bold;
+    }
+    .section {
+      margin-bottom: 25px;
+      padding-bottom: 15px;
+      border-bottom: 1px solid #333;
+    }
+    .section:last-child {
+      border-bottom: none;
+    }
+    .info-box {
+      background-color: #222;
+      padding: 15px;
+      border-radius: 5px;
+      margin: 20px 0;
+    }
+    .sponsorship-package {
+      background-color: #222;
+      border-left: 4px solid #f5f301;
+      padding: 15px;
+      border-radius: 5px;
+      margin: 20px 0;
+    }
+    .contact-info {
+      background-color: #222;
+      padding: 15px;
+      border-radius: 5px;
+    }
+    .footer {
+      text-align: center;
+      padding: 20px 0;
+      font-size: 12px;
+      color: #999;
+      border-top: 2px solid #f5f301;
+    }
+    .social-links {
+      text-align: center;
+      padding: 10px 0;
+    }
+    .social-links a {
+      display: inline-block;
+      margin: 0 10px;
+      color: #f5f301;
+      text-decoration: none;
+    }
+    .button {
+      display: inline-block;
+      background-color: #f5f301;
+      color: #121212 !important;
+      text-decoration: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      font-weight: bold;
+      margin: 15px 0;
+    }
+    .formule-badge {
+      display: inline-block;
+      background-color: #f5f301;
+      color: #121212;
+      padding: 5px 10px;
+      border-radius: 3px;
+      font-weight: bold;
+      margin-top: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <img src="https://firebasestorage.googleapis.com/v0/b/befacademy.firebasestorage.app/o/befa-logo.png?alt=media&token=2f0bd30e-f4e4-4613-9407-dcbefa9024b2" alt="BEFA Academy Logo" class="logo logo-light">
+      <img src="https://firebasestorage.googleapis.com/v0/b/befacademy.firebasestorage.app/o/befa_logo_black.png?alt=media&token=7419ae9d-56e9-486c-aeec-1f708bc4bcb9" alt="BEFA Academy Logo" class="logo logo-dark">
+    </div>
+    
+    <div class="content">
+      <div class="section">
+        <p>Bonjour <span class="highlight">{{prenom}} {{nom}}</span>,</p>
+        <p>Nous vous remercions pour votre intérêt à devenir partenaire de la BEFA Academy. Votre demande de sponsoring a bien été reçue et nous vous contacterons très prochainement pour discuter des détails.</p>
+      </div>
+      
+      <div class="section">
+        <h2>Formule de sponsoring sélectionnée</h2>
+        <div class="sponsorship-package">
+          <p>Vous avez sélectionné la formule : <span class="formule-badge">{{formule}}</span></p>
+        </div>
+      </div>
+      
+      <div class="section">
+        <h2>Récapitulatif de votre demande</h2>
+        <div class="info-box">
+          <p><strong>Date de la demande :</strong> <span class="highlight">{{date}}</span></p>
+          <p><strong>Entreprise :</strong> {{entreprise}}</p>
+          <p><strong>Nom du contact :</strong> {{prenom}} {{nom}}</p>
+          <p><strong>Fonction :</strong> {{fonction}}</p>
+          <p><strong>Email :</strong> {{email}}</p>
+          <p><strong>Téléphone :</strong> {{telephone}}</p>
+          <p><strong>Message :</strong></p>
+          <p>{{message}}</p>
+        </div>
+      </div>
+      
+      <div class="section contact-info">
+        <h2>Contact</h2>
+        <p>Notre responsable des partenariats vous contactera dans les 48 heures pour discuter des prochaines étapes et répondre à toutes vos questions.</p>
+        <p>E-mail : <a href="mailto:sponsoring@befa-academy.be" style="color: #f5f301;">sponsoring@befa-academy.be</a></p>
+        <p>Téléphone : <span class="highlight">+32 473 99 91 70</span></p>
+      </div>
+      
+      <div class="section" style="text-align: center;">
+        <p>En attendant, vous pouvez consulter notre brochure de sponsoring pour plus d'informations sur les avantages de chaque formule.</p>
+        <a href="https://befa-academy.be/brochure.pdf" class="button">Télécharger la brochure</a>
+      </div>
+    </div>
+    
+    <div class="footer">
+      <div class="social-links">
+        <a href="https://facebook.com/befaacademy">Facebook</a> |
+        <a href="https://instagram.com/befaacademy">Instagram</a>
+      </div>
+      <p>Sportivement,<br>L'équipe BEFA</p>
+      <p>&copy; {{annee}} BEFA Academy. Tous droits réservés.</p>
+    </div>
+  </div>
+</body>
+</html>
