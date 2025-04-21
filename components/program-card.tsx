@@ -4,8 +4,12 @@ import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
+import { useEffect } from "react";
+
+import { useState } from "react";
 import { useClientTranslation } from "@/utils/i18n";
 import { useParams } from "next/navigation";
+import i18next from "i18next";
 
 interface ProgramCardProps {
   activity: {
@@ -17,14 +21,36 @@ interface ProgramCardProps {
     imageUrl?: string;
   };
   link?: string;
+  translations?: ProgramCardTranslations;
+}
+
+interface ProgramCardTranslations {
+  individual: {
+    button: string;
+  };
+  learnMore: string;
 }
 
 export default function ProgramCard({
   activity,
   link = "#",
+  translations,
 }: ProgramCardProps) {
   const { lang } = useParams();
-  const { t } = useClientTranslation();
+  const { t, isLoaded: i18nLoaded } = useClientTranslation();
+  const [isLoaded, setIsLoaded] = useState(false);
+
+  useEffect(() => {
+    // Utiliser directement l'état de chargement du hook useClientTranslation
+    if (i18nLoaded && !isLoaded) {
+      console.log(`[SponsorshipForm] i18n est chargé, langue: ${lang}`);
+      // Vérifier si les traductions sont disponibles
+      console.log(`[SponsorshipForm] Test de traduction: ${t("sponsoring.form.form.title")}`);
+      console.log(`[SponsorshipForm] Langue courante: ${i18next.language}`);
+      console.log(`[SponsorshipForm] Langues disponibles: ${i18next.languages}`);
+      setIsLoaded(true);
+    }
+  }, [i18nLoaded, isLoaded, lang, t]);
 
   const { id, titleFr, subtitleFr, titleNl, subtitleNl, imageUrl } = activity;
 
@@ -57,9 +83,9 @@ export default function ProgramCard({
           </p>
           <div className="flex items-center text-primary font-medium">
             {id === "individual" ? (
-              <span>{t("home.activities.individual.button")}</span>
+              <span>{translations?.individual.button}</span>
             ) : (
-              <span>{t("home.activities.learnMore")}</span>
+              <span>{translations?.learnMore}</span>
             )}
             <motion.div
               className="ml-2"

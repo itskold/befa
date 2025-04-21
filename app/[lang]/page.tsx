@@ -29,6 +29,13 @@ export default async function Home({ params: { lang } }: { params: { lang: strin
     ...activities,
   ];
 
+  const ProgramCardTranslations = {
+    individual: {
+      button: t("home.activities.individual.button") as string,
+    },
+    learnMore: t("home.activities.learnMore") as string,
+  };
+
   // Utilisation des activités de Firebase si disponibles, sinon les activités par défaut
   const displayActivities =
     activitiesWithIndividual.length > 0
@@ -279,6 +286,7 @@ export default async function Home({ params: { lang } }: { params: { lang: strin
                 key={activity.id}
                 activity={activity as any}
                 link={activity.link}
+                translations={ProgramCardTranslations}
               />
             ))}
           </div>
