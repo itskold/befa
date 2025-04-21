@@ -64,8 +64,8 @@ export default async function Home({ params: { lang } }: { params: { lang: strin
                 <span>KSC Grimbergen</span>
               </div>
 
-              <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold tracking-tighter text-white leading-tight">
-                  <span className="text-primary">BEFA</span> {t("home.hero.title") as string}
+              <h1 className="text-3xl sm:text-3xl md:text-3xl font-bold tracking-tighter text-white leading-tight">
+                   {t("home.hero.title") as string}
               </h1>
 
               <p className="text-base sm:text-lg text-gray-300">

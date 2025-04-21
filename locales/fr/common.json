@@ -1,7 +1,7 @@
 {
   "home": {
     "hero": {
-     "title": " : JOUER, PROGRESSER, S'ÉPANOUIR !",
+     "title": "JOUER, PROGRESSER, S'ÉPANOUIR !",
             "description": "Chez BEFA, l'enfant est au centre de tout. Il perfectionne sa technique, développe sa coordination et progresse dans un environnement de partage et de convivialité.",
             "button": "Découvrir nos activités",
             "more": "En savoir plus",
@@ -138,9 +138,9 @@
         "year": "an",
         "items": {
           "item1": "Publicité sur le site web de l'académie",
-          "item2": "Mention sur les réseaux sociaux de l'académie (post remerciement avec votre logo)",
-          "button": "Choisir cette formule"
-        }
+          "item2": "Mention sur les réseaux sociaux de l'académie (post remerciement avec votre logo)"
+        },
+        "button": "Choisir cette formule"
       },
       "champion": {
         "title": "Champion",
@@ -149,9 +149,9 @@
         "items": {
           "item1": "Publicité sur le site web de l'académie",
           "item2": "Logo sponsor sur les shorts ou manche*",
-          "item3": "Publication sur les réseaux sociaux (1 post/an avec votre logo)",
-          "button": "Choisir cette formule"
-        }
+          "item3": "Publication sur les réseaux sociaux (1 post/an avec votre logo)"
+        },
+        "button": "Choisir cette formule"
       },
       "elite": {
         "badge": "Populaire",
@@ -162,9 +162,9 @@
           "item1": "Publicité sur le site web de l'académie",
           "item2": "Logo sponsor sur les shorts ou manche*",
           "item3": "Présence sur nos supports de communication (affiches, flyers,...)",
-          "item4": "Publicité régulière sur les réseaux sociaux (2 posts par an)",
-          "button": "Choisir cette formule"
-        }
+          "item4": "Publicité régulière sur les réseaux sociaux (2 posts par an)"
+        },
+        "button": "Choisir cette formule"
       },
       "legend": {
         "title": "Légende",
@@ -183,7 +183,8 @@
           "item10": "Bannières et annonces",
           "item11": "Accès VIP",
           "item12": "Aux événements et matchs"
-        }
+        },
+         "button": "Choisir cette formule"
       },
       "info": "*L'emplacement de votre logo sur nos équipements dépend des disponibilités.",
       "contact": "Contactez-nous pour tout autre demande comme le sponsoring d'évènements, de ballons ou d'équipements spécifiques.",

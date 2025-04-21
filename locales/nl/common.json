@@ -122,9 +122,9 @@
         "year": "jaar",
         "items": {
           "item1": "Reclame op de website van de academie",
-          "item2": "Vermelding op sociale media van de academie (bedankpost met uw logo)",
-          "button": "Deze formule kiezen"
-        }
+          "item2": "Vermelding op sociale media van de academie (bedankpost met uw logo)"
+        },
+        "button": "Deze formule kiezen"
       },
       "champion": {
         "title": "Champion",
@@ -133,9 +133,9 @@
         "items": {
           "item1": "Reclame op de website van de academie",
           "item2": "Sponsorlogo op shorts of mouw*",
-          "item3": "Publicatie op sociale media (1 post/jaar met uw logo)",
-          "button": "Deze formule kiezen"
-        }
+          "item3": "Publicatie op sociale media (1 post/jaar met uw logo)"
+        },
+        "button": "Deze formule kiezen"
       },
       "elite": {
         "badge": "Populair",
@@ -146,9 +146,9 @@
           "item1": "Reclame op de website van de academie",
           "item2": "Sponsorlogo op shorts of mouw*",
           "item3": "Aanwezigheid op onze communicatiemiddelen (posters, flyers,...)",
-          "item4": "Regelmatige reclame op sociale media (2 posts per jaar)",
-          "button": "Deze formule kiezen"
-        }
+          "item4": "Regelmatige reclame op sociale media (2 posts per jaar)"
+        },
+        "button": "Deze formule kiezen"
       },
       "legend": {
         "title": "Legende",
@@ -167,7 +167,8 @@
           "item10": "Banners en aankondigingen",
           "item11": "VIP-toegang",
           "item12": "Tot evenementen en wedstrijden"
-        }
+        },
+        "button": "Deze formule kiezen"
       },
       "info": "*De plaatsing van uw logo op onze uitrusting is afhankelijk van beschikbaarheid.",
       "contact": "Neem contact met ons op voor andere verzoeken zoals sponsoring van evenementen, ballen of specifieke uitrusting.",
