@@ -46,9 +46,9 @@ export default async function Home({ params: { lang } }: { params: { lang: strin
           }))
       : [];
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col min-h-screen ">
       {/* Hero Section - Image Enhanced */}
-      <section className="relative w-full h-[95vh] flex items-center overflow-hidden bg-secondary">
+      <section className="relative w-full h-[95vh] flex items-center overflow-hidden bg-secondary pt-20">
         {/* Background elements */}
         <div className="absolute inset-0 overflow-hidden">
           <div className="absolute top-0 right-0 w-full h-full bg-gradient-to-br from-secondary via-secondary to-primary/20"></div>
